@@ -76,6 +76,11 @@
       "id": "sub-1795142185262",
       "category": "Moradia",
       "name": "Condomínio"
+    },
+    {
+      "id": "sub-1795142195759",
+      "category": "Moradia",
+      "name": "Manutenção"
     }
   ],
   "fixedValues": [],
