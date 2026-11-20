@@ -27,7 +27,9 @@
       "configured": true
     }
   },
-  "cflAuto": {},
+  "cflAuto": {
+    "fx|vf-1795142254680|2026-11": "skip"
+  },
   "categories": [
     "Alimentação",
     "Transporte",
