@@ -18,7 +18,8 @@
     }
   ],
   "cards": [
-    "Nomad Explorer Infinite"
+    "Nomad Explorer Infinite",
+    "C6 Carbon"
   ],
   "cardConfig": {
     "Nomad Explorer Infinite": {
@@ -26,6 +27,12 @@
       "dueDay": 25,
       "configured": true,
       "limit": 14500
+    },
+    "C6 Carbon": {
+      "limit": 30000,
+      "closingDay": 29,
+      "dueDay": 5,
+      "configured": true
     }
   },
   "cflAuto": {
