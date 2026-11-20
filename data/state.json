@@ -41,6 +41,11 @@
       "id": "sub-4",
       "category": "Transporte",
       "name": "Combustível"
+    },
+    {
+      "id": "sub-1795142124921",
+      "category": "Alimentação",
+      "name": "Restaurante"
     }
   ],
   "fixedValues": [],
