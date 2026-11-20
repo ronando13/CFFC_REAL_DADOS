@@ -46,6 +46,11 @@
       "id": "sub-1795142124921",
       "category": "Alimentação",
       "name": "Restaurante"
+    },
+    {
+      "id": "sub-1795142128550",
+      "category": "Alimentação",
+      "name": "Padaria"
     }
   ],
   "fixedValues": [],
