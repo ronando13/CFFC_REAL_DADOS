@@ -27,9 +27,7 @@
       "configured": true
     }
   },
-  "operators": [
-    "Caju"
-  ],
+  "cflAuto": {},
   "categories": [
     "Alimentação",
     "Transporte",
@@ -253,6 +251,9 @@
       "status": "ABERTO",
       "value": -625
     }
+  ],
+  "operators": [
+    "Caju"
   ],
   "cdv": []
 }
