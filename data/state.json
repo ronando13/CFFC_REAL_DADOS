@@ -318,6 +318,17 @@
       "installment": "1/1",
       "status": "ABERTO",
       "value": -9.48
+    },
+    {
+      "code": "CC-018",
+      "date": "2026-10-22",
+      "purchaseDate": "2026-10-22",
+      "invoice": "2026-11",
+      "card": "Nomad Explorer",
+      "description": "Lisi - Minutas (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "value": -24
     }
   ],
   "operators": [
