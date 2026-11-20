@@ -18,13 +18,20 @@
     }
   ],
   "cards": [
-    "C6 Carbon"
+    "C6 Carbon",
+    "Nomad Explorer"
   ],
   "cardConfig": {
     "C6 Carbon": {
       "limit": 30000,
       "closingDay": 29,
       "dueDay": 5,
+      "configured": true
+    },
+    "Nomad Explorer": {
+      "limit": 14500,
+      "closingDay": 19,
+      "dueDay": 25,
       "configured": true
     }
   },
