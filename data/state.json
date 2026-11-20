@@ -131,63 +131,7 @@
       "origin": "CFL valor fixo"
     }
   ],
-  "ccred": [
-    {
-      "code": "CC-020",
-      "date": "2027-06-20",
-      "purchaseDate": "2026-11-20",
-      "invoice": "2027-07",
-      "card": "Nomad Explorer Infinite",
-      "description": "Beta - Compra VAN (8/12)",
-      "installment": "8/12",
-      "status": "ABERTO",
-      "value": -625
-    },
-    {
-      "code": "CC-021",
-      "date": "2027-07-20",
-      "purchaseDate": "2026-11-20",
-      "invoice": "2027-08",
-      "card": "Nomad Explorer Infinite",
-      "description": "Beta - Compra VAN (9/12)",
-      "installment": "9/12",
-      "status": "ABERTO",
-      "value": -625
-    },
-    {
-      "code": "CC-022",
-      "date": "2027-08-20",
-      "purchaseDate": "2026-11-20",
-      "invoice": "2027-09",
-      "card": "Nomad Explorer Infinite",
-      "description": "Beta - Compra VAN (10/12)",
-      "installment": "10/12",
-      "status": "ABERTO",
-      "value": -625
-    },
-    {
-      "code": "CC-023",
-      "date": "2027-09-20",
-      "purchaseDate": "2026-11-20",
-      "invoice": "2027-10",
-      "card": "Nomad Explorer Infinite",
-      "description": "Beta - Compra VAN (11/12)",
-      "installment": "11/12",
-      "status": "ABERTO",
-      "value": -625
-    },
-    {
-      "code": "CC-024",
-      "date": "2027-10-20",
-      "purchaseDate": "2026-11-20",
-      "invoice": "2027-11",
-      "card": "Nomad Explorer Infinite",
-      "description": "Beta - Compra VAN (12/12)",
-      "installment": "12/12",
-      "status": "ABERTO",
-      "value": -625
-    }
-  ],
+  "ccred": [],
   "operators": [
     "Caju"
   ],
