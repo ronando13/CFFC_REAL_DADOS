@@ -20,6 +20,11 @@
       "id": "acc-1795143160146",
       "name": "Carteira",
       "balance": 500
+    },
+    {
+      "id": "acc-1795143168229",
+      "name": "Santander",
+      "balance": 0
     }
   ],
   "cards": [
