@@ -51,6 +51,11 @@
       "id": "sub-1795142128550",
       "category": "Alimentação",
       "name": "Padaria"
+    },
+    {
+      "id": "sub-1795142135963",
+      "category": "Transporte",
+      "name": "Uber"
     }
   ],
   "fixedValues": [],
