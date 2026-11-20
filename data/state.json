@@ -61,6 +61,11 @@
       "id": "sub-1795142147228",
       "category": "Transporte",
       "name": "Aluguel de Veículos"
+    },
+    {
+      "id": "sub-1795142154733",
+      "category": "Transporte",
+      "name": "Seguro Automóvel"
     }
   ],
   "fixedValues": [],
