@@ -105,6 +105,115 @@
   ],
   "cfl": [],
   "contasEntries": [],
-  "ccred": [],
+  "ccred": [
+    {
+      "code": "CC-001",
+      "date": "2026-08-27",
+      "card": "Nomad Infinite",
+      "description": "Beta - LeonardoCruzDa (1/12)",
+      "installment": "1/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-002",
+      "date": "2026-09-27",
+      "card": "Nomad Infinite",
+      "description": "Beta - LeonardoCruzDa (2/12)",
+      "installment": "2/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-003",
+      "date": "2026-10-27",
+      "card": "Nomad Infinite",
+      "description": "Beta - LeonardoCruzDa (3/12)",
+      "installment": "3/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-004",
+      "date": "2026-11-27",
+      "card": "Nomad Infinite",
+      "description": "Beta - LeonardoCruzDa (4/12)",
+      "installment": "4/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-005",
+      "date": "2026-12-27",
+      "card": "Nomad Infinite",
+      "description": "Beta - LeonardoCruzDa (5/12)",
+      "installment": "5/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-006",
+      "date": "2027-01-27",
+      "card": "Nomad Infinite",
+      "description": "Beta - LeonardoCruzDa (6/12)",
+      "installment": "6/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-007",
+      "date": "2027-02-27",
+      "card": "Nomad Infinite",
+      "description": "Beta - LeonardoCruzDa (7/12)",
+      "installment": "7/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-008",
+      "date": "2027-03-27",
+      "card": "Nomad Infinite",
+      "description": "Beta - LeonardoCruzDa (8/12)",
+      "installment": "8/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-009",
+      "date": "2027-04-27",
+      "card": "Nomad Infinite",
+      "description": "Beta - LeonardoCruzDa (9/12)",
+      "installment": "9/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-010",
+      "date": "2027-05-27",
+      "card": "Nomad Infinite",
+      "description": "Beta - LeonardoCruzDa (10/12)",
+      "installment": "10/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-011",
+      "date": "2027-06-27",
+      "card": "Nomad Infinite",
+      "description": "Beta - LeonardoCruzDa (11/12)",
+      "installment": "11/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-012",
+      "date": "2027-07-27",
+      "card": "Nomad Infinite",
+      "description": "Beta - LeonardoCruzDa (12/12)",
+      "installment": "12/12",
+      "status": "ABERTO",
+      "value": -625
+    }
+  ],
   "cdv": []
 }
