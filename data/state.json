@@ -307,6 +307,17 @@
       "installment": "1/1",
       "status": "ABERTO",
       "value": -94.98
+    },
+    {
+      "code": "CC-017",
+      "date": "2026-10-21",
+      "purchaseDate": "2026-10-21",
+      "invoice": "2026-11",
+      "card": "Nomad Explorer",
+      "description": "Lisi - SUPER EXPRESS MERCADO CANOAS (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "value": -9.48
     }
   ],
   "operators": [
