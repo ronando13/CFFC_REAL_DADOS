@@ -241,6 +241,61 @@
       "installment": "12/12",
       "status": "ABERTO",
       "value": -625
+    },
+    {
+      "code": "CC-011",
+      "date": "2026-10-18",
+      "purchaseDate": "2026-09-18",
+      "invoice": "2026-10",
+      "card": "Nomad Explorer",
+      "description": "Lisi - Iberostar - MAta de SA (2/6)",
+      "installment": "2/6",
+      "status": "ABERTO",
+      "value": -1166.66
+    },
+    {
+      "code": "CC-012",
+      "date": "2026-11-18",
+      "purchaseDate": "2026-09-18",
+      "invoice": "2026-11",
+      "card": "Nomad Explorer",
+      "description": "Lisi - Iberostar - MAta de SA (3/6)",
+      "installment": "3/6",
+      "status": "ABERTO",
+      "value": -1166.66
+    },
+    {
+      "code": "CC-013",
+      "date": "2026-12-18",
+      "purchaseDate": "2026-09-18",
+      "invoice": "2026-12",
+      "card": "Nomad Explorer",
+      "description": "Lisi - Iberostar - MAta de SA (4/6)",
+      "installment": "4/6",
+      "status": "ABERTO",
+      "value": -1166.66
+    },
+    {
+      "code": "CC-014",
+      "date": "2027-01-18",
+      "purchaseDate": "2026-09-18",
+      "invoice": "2027-01",
+      "card": "Nomad Explorer",
+      "description": "Lisi - Iberostar - MAta de SA (5/6)",
+      "installment": "5/6",
+      "status": "ABERTO",
+      "value": -1166.66
+    },
+    {
+      "code": "CC-015",
+      "date": "2027-02-18",
+      "purchaseDate": "2026-09-18",
+      "invoice": "2027-02",
+      "card": "Nomad Explorer",
+      "description": "Lisi - Iberostar - MAta de SA (6/6)",
+      "installment": "6/6",
+      "status": "ABERTO",
+      "value": -1166.66
     }
   ],
   "operators": [
