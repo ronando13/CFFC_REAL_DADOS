@@ -131,7 +131,118 @@
       "origin": "CFL valor fixo"
     }
   ],
-  "ccred": [],
+  "ccred": [
+    {
+      "code": "CC-001",
+      "date": "2026-10-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2026-11",
+      "card": "Nomad Explorer",
+      "description": "Beta - LeonardoCruzDa - Compra da VAN (3/12)",
+      "installment": "3/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-002",
+      "date": "2026-11-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2026-12",
+      "card": "Nomad Explorer",
+      "description": "Beta - LeonardoCruzDa - Compra da VAN (4/12)",
+      "installment": "4/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-003",
+      "date": "2026-12-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-01",
+      "card": "Nomad Explorer",
+      "description": "Beta - LeonardoCruzDa - Compra da VAN (5/12)",
+      "installment": "5/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-004",
+      "date": "2027-01-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-02",
+      "card": "Nomad Explorer",
+      "description": "Beta - LeonardoCruzDa - Compra da VAN (6/12)",
+      "installment": "6/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-005",
+      "date": "2027-02-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-03",
+      "card": "Nomad Explorer",
+      "description": "Beta - LeonardoCruzDa - Compra da VAN (7/12)",
+      "installment": "7/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-006",
+      "date": "2027-03-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-04",
+      "card": "Nomad Explorer",
+      "description": "Beta - LeonardoCruzDa - Compra da VAN (8/12)",
+      "installment": "8/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-007",
+      "date": "2027-04-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-05",
+      "card": "Nomad Explorer",
+      "description": "Beta - LeonardoCruzDa - Compra da VAN (9/12)",
+      "installment": "9/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-008",
+      "date": "2027-05-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-06",
+      "card": "Nomad Explorer",
+      "description": "Beta - LeonardoCruzDa - Compra da VAN (10/12)",
+      "installment": "10/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-009",
+      "date": "2027-06-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-07",
+      "card": "Nomad Explorer",
+      "description": "Beta - LeonardoCruzDa - Compra da VAN (11/12)",
+      "installment": "11/12",
+      "status": "ABERTO",
+      "value": -625
+    },
+    {
+      "code": "CC-010",
+      "date": "2027-07-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-08",
+      "card": "Nomad Explorer",
+      "description": "Beta - LeonardoCruzDa - Compra da VAN (12/12)",
+      "installment": "12/12",
+      "status": "ABERTO",
+      "value": -625
+    }
+  ],
   "operators": [
     "Caju"
   ],
