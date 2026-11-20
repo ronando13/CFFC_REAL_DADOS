@@ -329,6 +329,17 @@
       "installment": "1/1",
       "status": "ABERTO",
       "value": -24
+    },
+    {
+      "code": "CC-019",
+      "date": "2026-10-25",
+      "purchaseDate": "2026-10-25",
+      "invoice": "2026-11",
+      "card": "Nomad Explorer",
+      "description": "Lisi - VERA SUSHI LOUNGE (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "value": -98
     }
   ],
   "operators": [
