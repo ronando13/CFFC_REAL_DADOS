@@ -15,6 +15,11 @@
       "id": "acc-3",
       "name": "Nubank Conta",
       "balance": 0
+    },
+    {
+      "id": "acc-1795143160146",
+      "name": "Carteira",
+      "balance": 500
     }
   ],
   "cards": [
