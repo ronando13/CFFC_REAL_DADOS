@@ -25,6 +25,11 @@
       "id": "acc-1795143168229",
       "name": "Santander",
       "balance": 0
+    },
+    {
+      "id": "acc-1795143180457",
+      "name": "C6 Bank",
+      "balance": 10
     }
   ],
   "cards": [
