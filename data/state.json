@@ -71,6 +71,11 @@
       "id": "sub-1795142174244",
       "category": "Moradia",
       "name": "Energia Elétrica"
+    },
+    {
+      "id": "sub-1795142185262",
+      "category": "Moradia",
+      "name": "Condomínio"
     }
   ],
   "fixedValues": [],
