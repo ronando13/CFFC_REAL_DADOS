@@ -89,6 +89,12 @@
       "day": 15,
       "description": "Condomínio",
       "value": 240
+    },
+    {
+      "id": "vf-1795142229158",
+      "day": 17,
+      "description": "IPTV",
+      "value": 19.9
     }
   ],
   "cfl": [],
