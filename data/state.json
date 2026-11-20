@@ -83,7 +83,14 @@
       "name": "Manutenção"
     }
   ],
-  "fixedValues": [],
+  "fixedValues": [
+    {
+      "id": "vf-1795142214607",
+      "day": 15,
+      "description": "Condomínio",
+      "value": 240
+    }
+  ],
   "cfl": [],
   "contasEntries": [],
   "ccred": [],
