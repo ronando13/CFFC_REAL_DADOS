@@ -31,11 +31,6 @@
   ],
   "subcategories": [
     {
-      "id": "sub-1",
-      "category": "Moradia",
-      "name": "Aluguel"
-    },
-    {
       "id": "sub-2",
       "category": "Moradia",
       "name": "Energia e Água"
