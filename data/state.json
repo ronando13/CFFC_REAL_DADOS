@@ -66,6 +66,11 @@
       "id": "sub-1795142154733",
       "category": "Transporte",
       "name": "Seguro Automóvel"
+    },
+    {
+      "id": "sub-1795142174244",
+      "category": "Moradia",
+      "name": "Energia Elétrica"
     }
   ],
   "fixedValues": [],
