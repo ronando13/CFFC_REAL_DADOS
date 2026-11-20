@@ -39,11 +39,6 @@
       "id": "sub-4",
       "category": "Transporte",
       "name": "Combustível"
-    },
-    {
-      "id": "sub-5",
-      "category": "Operacional",
-      "name": "Software e Serviços"
     }
   ],
   "fixedValues": [],
