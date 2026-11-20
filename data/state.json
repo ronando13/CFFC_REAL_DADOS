@@ -351,6 +351,17 @@
       "installment": "1/1",
       "status": "ABERTO",
       "value": -6.98
+    },
+    {
+      "code": "CC-021",
+      "date": "2026-10-26",
+      "purchaseDate": "2026-10-26",
+      "invoice": "2026-11",
+      "card": "Nomad Explorer",
+      "description": "Lisi - IFD*Horizonte Restaura Canoas (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "value": -30.29
     }
   ],
   "operators": [
