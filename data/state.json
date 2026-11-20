@@ -296,6 +296,17 @@
       "installment": "6/6",
       "status": "ABERTO",
       "value": -1166.66
+    },
+    {
+      "code": "CC-016",
+      "date": "2026-10-24",
+      "purchaseDate": "2026-10-24",
+      "invoice": "2026-11",
+      "card": "Nomad Explorer",
+      "description": "Lisi - Latam Airgxjk (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "value": -94.98
     }
   ],
   "operators": [
