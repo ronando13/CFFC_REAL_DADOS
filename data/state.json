@@ -56,6 +56,11 @@
       "id": "sub-1795142135963",
       "category": "Transporte",
       "name": "Uber"
+    },
+    {
+      "id": "sub-1795142147228",
+      "category": "Transporte",
+      "name": "Aluguel de Veículos"
     }
   ],
   "fixedValues": [],
