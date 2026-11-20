@@ -1,5 +1,5 @@
 {
-  "activeTab": "cfl",
+  "activeTab": "ccred",
   "accounts": [
     {
       "id": "acc-1795143160146",
@@ -103,28 +103,7 @@
       "value": 300
     }
   ],
-  "cfl": [
-    {
-      "code": "CFL-001",
-      "date": "2026-11-20",
-      "description": "teste (1/2)",
-      "account": "Carteira",
-      "category": "Alimentação",
-      "subcategory": "Mercado",
-      "recurrence": "Mensal",
-      "value": 10
-    },
-    {
-      "code": "CFL-002",
-      "date": "2026-12-20",
-      "description": "teste (2/2)",
-      "account": "Carteira",
-      "category": "Alimentação",
-      "subcategory": "Mercado",
-      "recurrence": "Mensal",
-      "value": 10
-    }
-  ],
+  "cfl": [],
   "contasEntries": [],
   "ccred": [],
   "cdv": []
