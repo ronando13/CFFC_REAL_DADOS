@@ -18,9 +18,15 @@
     }
   ],
   "cards": [
-    "Santander Unique"
+    "Nomad Explorer Infinite"
   ],
-  "cardConfig": {},
+  "cardConfig": {
+    "Nomad Explorer Infinite": {
+      "closingDay": 19,
+      "dueDay": 25,
+      "configured": true
+    }
+  },
   "operators": [
     "Caju"
   ],
