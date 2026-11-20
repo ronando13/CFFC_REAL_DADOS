@@ -24,7 +24,8 @@
     "Nomad Explorer Infinite": {
       "closingDay": 19,
       "dueDay": 25,
-      "configured": true
+      "configured": true,
+      "limit": 14500
     }
   },
   "cflAuto": {
