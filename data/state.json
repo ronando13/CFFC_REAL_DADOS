@@ -105,52 +105,6 @@
   ],
   "cfl": [],
   "contasEntries": [],
-  "ccred": [
-    {
-      "code": "CC-001",
-      "date": "2026-11-20",
-      "card": "Personnalité Black",
-      "description": "teste (1/5)",
-      "installment": "1/5",
-      "status": "ABERTO",
-      "value": -20
-    },
-    {
-      "code": "CC-002",
-      "date": "2026-12-20",
-      "card": "Personnalité Black",
-      "description": "teste (2/5)",
-      "installment": "2/5",
-      "status": "ABERTO",
-      "value": -20
-    },
-    {
-      "code": "CC-003",
-      "date": "2027-01-20",
-      "card": "Personnalité Black",
-      "description": "teste (3/5)",
-      "installment": "3/5",
-      "status": "ABERTO",
-      "value": -20
-    },
-    {
-      "code": "CC-004",
-      "date": "2027-02-20",
-      "card": "Personnalité Black",
-      "description": "teste (4/5)",
-      "installment": "4/5",
-      "status": "ABERTO",
-      "value": -20
-    },
-    {
-      "code": "CC-005",
-      "date": "2027-03-20",
-      "card": "Personnalité Black",
-      "description": "teste (5/5)",
-      "installment": "5/5",
-      "status": "ABERTO",
-      "value": -20
-    }
-  ],
+  "ccred": [],
   "cdv": []
 }
