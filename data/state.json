@@ -1,10 +1,10 @@
 {
-  "activeTab": "contas",
+  "activeTab": "cfl",
   "accounts": [
     {
       "id": "acc-1795143160146",
       "name": "Carteira",
-      "balance": 1000
+      "balance": 500
     },
     {
       "id": "acc-1795143168229",
@@ -106,18 +106,7 @@
     }
   ],
   "cfl": [],
-  "contasEntries": [
-    {
-      "id": "ct-1795178679794",
-      "date": "2026-11-20",
-      "account": "Carteira",
-      "description": "Reserva kit emergência",
-      "category": "Alimentação",
-      "subcategory": "",
-      "status": "PAGO",
-      "value": 500
-    }
-  ],
+  "contasEntries": [],
   "ccred": [
     {
       "code": "CC-013",
