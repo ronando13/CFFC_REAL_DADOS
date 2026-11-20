@@ -31,11 +31,6 @@
   ],
   "subcategories": [
     {
-      "id": "sub-2",
-      "category": "Moradia",
-      "name": "Energia e Água"
-    },
-    {
       "id": "sub-3",
       "category": "Alimentação",
       "name": "Mercado"
