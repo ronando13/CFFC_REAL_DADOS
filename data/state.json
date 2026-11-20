@@ -340,6 +340,17 @@
       "installment": "1/1",
       "status": "ABERTO",
       "value": -98
+    },
+    {
+      "code": "CC-020",
+      "date": "2026-10-26",
+      "purchaseDate": "2026-10-26",
+      "invoice": "2026-11",
+      "card": "Nomad Explorer",
+      "description": "Lisi -  Pao da hora (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "value": -6.98
     }
   ],
   "operators": [
