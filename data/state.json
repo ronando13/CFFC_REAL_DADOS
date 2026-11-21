@@ -99,7 +99,7 @@
       "institution": "Mercado Pago",
       "rate": "120",
       "applied": 10000,
-      "currentValue": 10000,
+      "currentValue": 10050.07,
       "startDate": "2026-11-21",
       "dueDate": "2027-11-21",
       "status": "ATIVO"
@@ -135,6 +135,16 @@
       "account": "",
       "note": "posição inicial",
       "cash": false
+    },
+    {
+      "id": "ie-1795232871560-5yrp",
+      "date": "2026-11-21",
+      "investmentId": "inv-1795232847835-r5k0",
+      "kind": "RENDIMENTO",
+      "value": 50.07,
+      "account": "",
+      "note": "",
+      "cash": false
     }
   ],
   "invPlans": [],
@@ -143,11 +153,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T03:47:13.824Z"
+      "at": "2026-11-21T03:47:43.817Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T03:47:13.824Z"
+      "at": "2026-11-21T03:47:43.817Z"
     }
   },
   "cflAuto": {
