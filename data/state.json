@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:31:19.043Z"
+      "at": "2026-11-21T23:31:49.039Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:31:19.043Z"
+      "at": "2026-11-21T23:31:49.039Z"
     }
   },
   "cflAuto": {
@@ -848,6 +848,18 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -100
+    },
+    {
+      "code": "CC-058",
+      "date": "2026-11-16",
+      "purchaseDate": "2026-09-16",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Nike (3/3) - Lisi (3/3)",
+      "installment": "3/3",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -145.95
     }
   ],
   "operators": [
