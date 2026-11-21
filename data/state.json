@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:33:49.049Z"
+      "at": "2026-11-21T23:34:19.051Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:33:49.049Z"
+      "at": "2026-11-21T23:34:19.051Z"
     }
   },
   "cflAuto": {
@@ -968,6 +968,18 @@
       "status": "ABERTO",
       "buyer": "Júnior",
       "value": -8.05
+    },
+    {
+      "code": "CC-068",
+      "date": "2026-10-31",
+      "purchaseDate": "2026-10-31",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Farmacia Sao Joao - Lisi (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Júnior",
+      "value": -160.37
     }
   ],
   "operators": [
