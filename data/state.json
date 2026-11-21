@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:34:49.051Z"
+      "at": "2026-11-21T23:35:19.041Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:34:49.052Z"
+      "at": "2026-11-21T23:35:19.041Z"
     }
   },
   "cflAuto": {
@@ -1064,6 +1064,18 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -100
+    },
+    {
+      "code": "CC-076",
+      "date": "2026-11-02",
+      "purchaseDate": "2026-11-02",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Schimidt Posto de Combustiveis NH Gasolina Lisi (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -255.49
     }
   ],
   "operators": [
