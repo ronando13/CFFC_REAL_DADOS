@@ -202,7 +202,8 @@
       "description": "Beta - LeonardoCruzDa - Compra da VAN (6/12)",
       "installment": "6/12",
       "status": "ABERTO",
-      "value": -625
+      "value": -625,
+      "buyer": "Beta"
     },
     {
       "code": "CC-005",
