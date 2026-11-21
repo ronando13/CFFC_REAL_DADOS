@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:35:49.057Z"
+      "at": "2026-11-21T23:37:19.041Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:35:49.057Z"
+      "at": "2026-11-21T23:37:19.041Z"
     }
   },
   "cflAuto": {
@@ -1160,6 +1160,54 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -100.05
+    },
+    {
+      "code": "CC-084",
+      "date": "2026-11-03",
+      "purchaseDate": "2026-11-03",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Loja Maria Carolina (1/4) Roupas Lisi (1/4)",
+      "installment": "1/4",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -237.5
+    },
+    {
+      "code": "CC-085",
+      "date": "2026-12-03",
+      "purchaseDate": "2026-11-03",
+      "invoice": "2027-01",
+      "card": "C6 Carbon",
+      "description": "Loja Maria Carolina (1/4) Roupas Lisi (2/4)",
+      "installment": "2/4",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -237.5
+    },
+    {
+      "code": "CC-086",
+      "date": "2027-01-03",
+      "purchaseDate": "2026-11-03",
+      "invoice": "2027-02",
+      "card": "C6 Carbon",
+      "description": "Loja Maria Carolina (1/4) Roupas Lisi (3/4)",
+      "installment": "3/4",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -237.5
+    },
+    {
+      "code": "CC-087",
+      "date": "2027-02-03",
+      "purchaseDate": "2026-11-03",
+      "invoice": "2027-03",
+      "card": "C6 Carbon",
+      "description": "Loja Maria Carolina (1/4) Roupas Lisi (4/4)",
+      "installment": "4/4",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -237.5
     }
   ],
   "operators": [
