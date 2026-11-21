@@ -35,7 +35,8 @@
       "limit": 14500,
       "closingDay": 19,
       "dueDay": 25,
-      "configured": true
+      "configured": true,
+      "brand": "Visa"
     },
     "Personnalité Black": {
       "limit": 39043,
