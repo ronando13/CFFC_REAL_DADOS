@@ -312,12 +312,6 @@
   ],
   "fixedValues": [
     {
-      "id": "vf-1795142254680",
-      "day": 5,
-      "description": "Energia Elétrica",
-      "value": 300
-    },
-    {
       "id": "vf-1795256387960-k79",
       "day": 17,
       "description": "IPTV",
@@ -328,6 +322,12 @@
       "day": 15,
       "description": "Condomínio",
       "value": -240
+    },
+    {
+      "id": "vf-1795256466327-iip",
+      "day": 5,
+      "description": "Energia Elétrica",
+      "value": -300
     }
   ],
   "cfl": [],
