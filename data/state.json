@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:30:49.051Z"
+      "at": "2026-11-21T23:31:19.043Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:30:49.051Z"
+      "at": "2026-11-21T23:31:19.043Z"
     }
   },
   "cflAuto": {
@@ -824,6 +824,30 @@
       "status": "ABERTO",
       "buyer": "",
       "value": -353.72
+    },
+    {
+      "code": "CC-056",
+      "date": "2026-11-10",
+      "purchaseDate": "2026-09-10",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Micro Sul Griffes (3/4) - Lisi (3/4)",
+      "installment": "3/4",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -100
+    },
+    {
+      "code": "CC-057",
+      "date": "2026-12-10",
+      "purchaseDate": "2026-09-10",
+      "invoice": "2027-01",
+      "card": "C6 Carbon",
+      "description": "Micro Sul Griffes (3/4) - Lisi (4/4)",
+      "installment": "4/4",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -100
     }
   ],
   "operators": [
