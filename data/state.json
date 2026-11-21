@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:43:49.045Z"
+      "at": "2026-11-21T23:44:19.049Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:43:49.045Z"
+      "at": "2026-11-21T23:44:19.049Z"
     }
   },
   "cflAuto": {
@@ -1412,6 +1412,126 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -47.48
+    },
+    {
+      "code": "CC-105",
+      "date": "2026-11-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "New BrasilArtigos Esp (1/10) ? Lisi (1/10)",
+      "installment": "1/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -56.11
+    },
+    {
+      "code": "CC-106",
+      "date": "2026-12-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2027-01",
+      "card": "C6 Carbon",
+      "description": "New BrasilArtigos Esp (1/10) ? Lisi (2/10)",
+      "installment": "2/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -56.11
+    },
+    {
+      "code": "CC-107",
+      "date": "2027-01-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2027-02",
+      "card": "C6 Carbon",
+      "description": "New BrasilArtigos Esp (1/10) ? Lisi (3/10)",
+      "installment": "3/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -56.11
+    },
+    {
+      "code": "CC-108",
+      "date": "2027-02-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2027-03",
+      "card": "C6 Carbon",
+      "description": "New BrasilArtigos Esp (1/10) ? Lisi (4/10)",
+      "installment": "4/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -56.11
+    },
+    {
+      "code": "CC-109",
+      "date": "2027-03-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2027-04",
+      "card": "C6 Carbon",
+      "description": "New BrasilArtigos Esp (1/10) ? Lisi (5/10)",
+      "installment": "5/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -56.11
+    },
+    {
+      "code": "CC-110",
+      "date": "2027-04-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2027-05",
+      "card": "C6 Carbon",
+      "description": "New BrasilArtigos Esp (1/10) ? Lisi (6/10)",
+      "installment": "6/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -56.11
+    },
+    {
+      "code": "CC-111",
+      "date": "2027-05-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2027-06",
+      "card": "C6 Carbon",
+      "description": "New BrasilArtigos Esp (1/10) ? Lisi (7/10)",
+      "installment": "7/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -56.11
+    },
+    {
+      "code": "CC-112",
+      "date": "2027-06-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2027-07",
+      "card": "C6 Carbon",
+      "description": "New BrasilArtigos Esp (1/10) ? Lisi (8/10)",
+      "installment": "8/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -56.11
+    },
+    {
+      "code": "CC-113",
+      "date": "2027-07-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2027-08",
+      "card": "C6 Carbon",
+      "description": "New BrasilArtigos Esp (1/10) ? Lisi (9/10)",
+      "installment": "9/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -56.11
+    },
+    {
+      "code": "CC-114",
+      "date": "2027-08-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2027-09",
+      "card": "C6 Carbon",
+      "description": "New BrasilArtigos Esp (1/10) ? Lisi (10/10)",
+      "installment": "10/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -56.11
     }
   ],
   "operators": [
