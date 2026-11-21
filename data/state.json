@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:39:49.042Z"
+      "at": "2026-11-21T23:40:19.053Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:39:49.042Z"
+      "at": "2026-11-21T23:40:19.053Z"
     }
   },
   "cflAuto": {
@@ -1364,6 +1364,18 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -135.99
+    },
+    {
+      "code": "CC-101",
+      "date": "2026-11-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "CT Arena 365 Academia Junior Júnior (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Júnior",
+      "value": -175
     }
   ],
   "operators": [
