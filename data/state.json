@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:34:19.051Z"
+      "at": "2026-11-21T23:34:49.051Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:34:19.051Z"
+      "at": "2026-11-21T23:34:49.052Z"
     }
   },
   "cflAuto": {
@@ -966,7 +966,7 @@
       "description": "Uber - Júnior (1/1)",
       "installment": "1/1",
       "status": "ABERTO",
-      "buyer": "Júnior",
+      "buyer": "Lisi",
       "value": -8.05
     },
     {
@@ -978,7 +978,7 @@
       "description": "Farmacia Sao Joao - Lisi (1/1)",
       "installment": "1/1",
       "status": "ABERTO",
-      "buyer": "Júnior",
+      "buyer": "Lisi",
       "value": -160.37
     }
   ],
