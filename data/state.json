@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:44:49.043Z"
+      "at": "2026-11-21T23:45:19.056Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:44:49.043Z"
+      "at": "2026-11-21T23:45:19.056Z"
     }
   },
   "cflAuto": {
@@ -1640,6 +1640,18 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -97.5
+    },
+    {
+      "code": "CC-124",
+      "date": "2026-11-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "ZP*meu Momento Amanda Manicure Lisi (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -98.03
     }
   ],
   "operators": [
