@@ -167,7 +167,8 @@
       "description": "Beta - LeonardoCruzDa - Compra da VAN (3/12)",
       "installment": "3/12",
       "status": "ABERTO",
-      "value": -625
+      "value": -625,
+      "buyer": "Beta"
     },
     {
       "code": "CC-002",
@@ -178,7 +179,8 @@
       "description": "Beta - LeonardoCruzDa - Compra da VAN (4/12)",
       "installment": "4/12",
       "status": "ABERTO",
-      "value": -625
+      "value": -625,
+      "buyer": "Beta"
     },
     {
       "code": "CC-003",
