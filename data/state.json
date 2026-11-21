@@ -1532,6 +1532,18 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -56.11
+    },
+    {
+      "code": "CC-115",
+      "date": "2026-11-12",
+      "purchaseDate": "2026-11-12",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Restaurante Karioka LT Aniv Vini Lisi (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -247.37
     }
   ],
   "operators": [
