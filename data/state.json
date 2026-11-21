@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:38:19.044Z"
+      "at": "2026-11-21T23:38:49.044Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:38:19.044Z"
+      "at": "2026-11-21T23:38:49.044Z"
     }
   },
   "cflAuto": {
@@ -1316,6 +1316,18 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -98.75
+    },
+    {
+      "code": "CC-097",
+      "date": "2026-11-05",
+      "purchaseDate": "2026-11-05",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Tim Pos Celular Ana Lúcia Ana Lúcia (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Ana Lúcia",
+      "value": -71.99
     }
   ],
   "operators": [
