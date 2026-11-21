@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:41:19.073Z"
+      "at": "2026-11-21T23:42:49.049Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:41:19.073Z"
+      "at": "2026-11-21T23:42:49.049Z"
     }
   },
   "cflAuto": {
@@ -1376,6 +1376,42 @@
       "status": "ABERTO",
       "buyer": "Júnior",
       "value": -175
+    },
+    {
+      "code": "CC-102",
+      "date": "2026-11-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Mercado*Mercadolivre (1/3) ? Lisi Camisa Colete Fem (1/3)",
+      "installment": "1/3",
+      "status": "ABERTO",
+      "buyer": "Júnior",
+      "value": -47.48
+    },
+    {
+      "code": "CC-103",
+      "date": "2026-12-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2027-01",
+      "card": "C6 Carbon",
+      "description": "Mercado*Mercadolivre (1/3) ? Lisi Camisa Colete Fem (2/3)",
+      "installment": "2/3",
+      "status": "ABERTO",
+      "buyer": "Júnior",
+      "value": -47.48
+    },
+    {
+      "code": "CC-104",
+      "date": "2027-01-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2027-02",
+      "card": "C6 Carbon",
+      "description": "Mercado*Mercadolivre (1/3) ? Lisi Camisa Colete Fem (3/3)",
+      "installment": "3/3",
+      "status": "ABERTO",
+      "buyer": "Júnior",
+      "value": -47.48
     }
   ],
   "operators": [
