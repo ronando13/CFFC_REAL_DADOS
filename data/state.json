@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:27:49.037Z"
+      "at": "2026-11-21T23:28:49.039Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:27:49.037Z"
+      "at": "2026-11-21T23:28:49.039Z"
     }
   },
   "cflAuto": {
@@ -608,6 +608,42 @@
       "status": "ABERTO",
       "buyer": "Beta",
       "value": -1461.66
+    },
+    {
+      "code": "CC-038",
+      "date": "2026-11-02",
+      "purchaseDate": "2026-06-02",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Magalu (6/8) Pneus Ka Beta (6/8)",
+      "installment": "6/8",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -157.47
+    },
+    {
+      "code": "CC-039",
+      "date": "2026-12-02",
+      "purchaseDate": "2026-06-02",
+      "invoice": "2027-01",
+      "card": "C6 Carbon",
+      "description": "Magalu (6/8) Pneus Ka Beta (7/8)",
+      "installment": "7/8",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -157.47
+    },
+    {
+      "code": "CC-040",
+      "date": "2027-01-02",
+      "purchaseDate": "2026-06-02",
+      "invoice": "2027-02",
+      "card": "C6 Carbon",
+      "description": "Magalu (6/8) Pneus Ka Beta (8/8)",
+      "installment": "8/8",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -157.47
     }
   ],
   "operators": [
