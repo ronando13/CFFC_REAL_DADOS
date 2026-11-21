@@ -19,7 +19,8 @@
   ],
   "cards": [
     "C6 Carbon",
-    "Nomad Explorer"
+    "Nomad Explorer",
+    "Personnalité Black"
   ],
   "cardConfig": {
     "C6 Carbon": {
@@ -32,6 +33,13 @@
       "limit": 14500,
       "closingDay": 19,
       "dueDay": 25,
+      "configured": true
+    },
+    "Personnalité Black": {
+      "limit": 39043,
+      "brand": "Mastercard",
+      "closingDay": 29,
+      "dueDay": 5,
       "configured": true
     }
   },
