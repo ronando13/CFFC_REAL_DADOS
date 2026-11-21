@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:33:19.056Z"
+      "at": "2026-11-21T23:33:49.049Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:33:19.056Z"
+      "at": "2026-11-21T23:33:49.049Z"
     }
   },
   "cflAuto": {
@@ -956,6 +956,18 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -339.99
+    },
+    {
+      "code": "CC-067",
+      "date": "2026-10-30",
+      "purchaseDate": "2026-10-30",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Uber - Júnior (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Júnior",
+      "value": -8.05
     }
   ],
   "operators": [
