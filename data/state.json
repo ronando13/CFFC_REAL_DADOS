@@ -103,6 +103,18 @@
       "startDate": "2026-11-21",
       "dueDate": "2027-11-21",
       "status": "ATIVO"
+    },
+    {
+      "id": "inv-1795233059663-s8rq",
+      "type": "CDB",
+      "name": "CDB C6 Baank Pós-fixado Liq.Diária",
+      "institution": "C6 Bank",
+      "rate": "100",
+      "applied": 250.63,
+      "currentValue": 250.63,
+      "startDate": "2023-12-22",
+      "dueDate": "2026-12-21",
+      "status": "ATIVO"
     }
   ],
   "investEntries": [
@@ -145,6 +157,16 @@
       "account": "",
       "note": "",
       "cash": false
+    },
+    {
+      "id": "ie-1795233059664-6y7b",
+      "date": "2023-12-22",
+      "investmentId": "inv-1795233059663-s8rq",
+      "kind": "APORTE",
+      "value": 250.63,
+      "account": "",
+      "note": "posição inicial",
+      "cash": false
     }
   ],
   "invPlans": [],
@@ -153,11 +175,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T03:47:43.817Z"
+      "at": "2026-11-21T03:50:43.819Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T03:47:43.817Z"
+      "at": "2026-11-21T03:50:43.819Z"
     }
   },
   "cflAuto": {
