@@ -35,7 +35,20 @@
       "configured": true
     }
   },
-  "people": [],
+  "people": [
+    {
+      "id": "p-1795225557808",
+      "name": "Beta",
+      "email": "",
+      "phone": ""
+    },
+    {
+      "id": "p-1795225564703",
+      "name": "Lisi",
+      "email": "",
+      "phone": ""
+    }
+  ],
   "cflAuto": {
     "fx|vf-1795142254680|2026-11": "skip",
     "fx|vf-1795142214607|2026-11": "skip",
