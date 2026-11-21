@@ -28,7 +28,8 @@
       "limit": 30000,
       "closingDay": 29,
       "dueDay": 5,
-      "configured": true
+      "configured": true,
+      "brand": "Mastercard"
     },
     "Nomad Explorer": {
       "limit": 14500,
