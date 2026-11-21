@@ -980,6 +980,90 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -160.37
+    },
+    {
+      "code": "CC-069",
+      "date": "2026-11-02",
+      "purchaseDate": "2026-11-02",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "PayU Adidas Barueri (1/7) Tenis Lisi (1/7)",
+      "installment": "1/7",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -100
+    },
+    {
+      "code": "CC-070",
+      "date": "2026-12-02",
+      "purchaseDate": "2026-11-02",
+      "invoice": "2027-01",
+      "card": "C6 Carbon",
+      "description": "PayU Adidas Barueri (1/7) Tenis Lisi (2/7)",
+      "installment": "2/7",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -100
+    },
+    {
+      "code": "CC-071",
+      "date": "2027-01-02",
+      "purchaseDate": "2026-11-02",
+      "invoice": "2027-02",
+      "card": "C6 Carbon",
+      "description": "PayU Adidas Barueri (1/7) Tenis Lisi (3/7)",
+      "installment": "3/7",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -100
+    },
+    {
+      "code": "CC-072",
+      "date": "2027-02-02",
+      "purchaseDate": "2026-11-02",
+      "invoice": "2027-03",
+      "card": "C6 Carbon",
+      "description": "PayU Adidas Barueri (1/7) Tenis Lisi (4/7)",
+      "installment": "4/7",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -100
+    },
+    {
+      "code": "CC-073",
+      "date": "2027-03-02",
+      "purchaseDate": "2026-11-02",
+      "invoice": "2027-04",
+      "card": "C6 Carbon",
+      "description": "PayU Adidas Barueri (1/7) Tenis Lisi (5/7)",
+      "installment": "5/7",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -100
+    },
+    {
+      "code": "CC-074",
+      "date": "2027-04-02",
+      "purchaseDate": "2026-11-02",
+      "invoice": "2027-05",
+      "card": "C6 Carbon",
+      "description": "PayU Adidas Barueri (1/7) Tenis Lisi (6/7)",
+      "installment": "6/7",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -100
+    },
+    {
+      "code": "CC-075",
+      "date": "2027-05-02",
+      "purchaseDate": "2026-11-02",
+      "invoice": "2027-06",
+      "card": "C6 Carbon",
+      "description": "PayU Adidas Barueri (1/7) Tenis Lisi (7/7)",
+      "installment": "7/7",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -100
     }
   ],
   "operators": [
