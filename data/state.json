@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:28:49.039Z"
+      "at": "2026-11-21T23:29:19.038Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:28:49.039Z"
+      "at": "2026-11-21T23:29:19.038Z"
     }
   },
   "cflAuto": {
@@ -644,6 +644,18 @@
       "status": "ABERTO",
       "buyer": "Beta",
       "value": -157.47
+    },
+    {
+      "code": "CC-041",
+      "date": "2026-11-01",
+      "purchaseDate": "2026-08-01",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Latam Air FCWVAH (4/4) - Lisi (4/4)",
+      "installment": "4/4",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -770.98
     }
   ],
   "operators": [
