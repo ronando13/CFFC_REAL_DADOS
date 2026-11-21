@@ -1208,6 +1208,66 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -237.5
+    },
+    {
+      "code": "CC-088",
+      "date": "2026-11-03",
+      "purchaseDate": "2026-11-03",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Loja Maria Carolina (1/5) - Lis (1/5)",
+      "installment": "1/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -99.99
+    },
+    {
+      "code": "CC-089",
+      "date": "2026-12-03",
+      "purchaseDate": "2026-11-03",
+      "invoice": "2027-01",
+      "card": "C6 Carbon",
+      "description": "Loja Maria Carolina (1/5) - Lis (2/5)",
+      "installment": "2/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -99.99
+    },
+    {
+      "code": "CC-090",
+      "date": "2027-01-03",
+      "purchaseDate": "2026-11-03",
+      "invoice": "2027-02",
+      "card": "C6 Carbon",
+      "description": "Loja Maria Carolina (1/5) - Lis (3/5)",
+      "installment": "3/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -99.99
+    },
+    {
+      "code": "CC-091",
+      "date": "2027-02-03",
+      "purchaseDate": "2026-11-03",
+      "invoice": "2027-03",
+      "card": "C6 Carbon",
+      "description": "Loja Maria Carolina (1/5) - Lis (4/5)",
+      "installment": "4/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -99.99
+    },
+    {
+      "code": "CC-092",
+      "date": "2027-03-03",
+      "purchaseDate": "2026-11-03",
+      "invoice": "2027-04",
+      "card": "C6 Carbon",
+      "description": "Loja Maria Carolina (1/5) - Lis (5/5)",
+      "installment": "5/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -99.99
     }
   ],
   "operators": [
