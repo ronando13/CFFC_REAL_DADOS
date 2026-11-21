@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:29:19.038Z"
+      "at": "2026-11-21T23:29:49.040Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:29:19.038Z"
+      "at": "2026-11-21T23:29:49.040Z"
     }
   },
   "cflAuto": {
@@ -656,6 +656,126 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -770.98
+    },
+    {
+      "code": "CC-042",
+      "date": "2026-10-31",
+      "purchaseDate": "2026-08-31",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Amazon Prime BR (3/12) Assinatura Prime ronando (3/12)",
+      "installment": "3/12",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -13.9
+    },
+    {
+      "code": "CC-043",
+      "date": "2026-12-01",
+      "purchaseDate": "2026-08-31",
+      "invoice": "2027-01",
+      "card": "C6 Carbon",
+      "description": "Amazon Prime BR (3/12) Assinatura Prime ronando (4/12)",
+      "installment": "4/12",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -13.9
+    },
+    {
+      "code": "CC-044",
+      "date": "2026-12-31",
+      "purchaseDate": "2026-08-31",
+      "invoice": "2027-02",
+      "card": "C6 Carbon",
+      "description": "Amazon Prime BR (3/12) Assinatura Prime ronando (5/12)",
+      "installment": "5/12",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -13.9
+    },
+    {
+      "code": "CC-045",
+      "date": "2027-01-31",
+      "purchaseDate": "2026-08-31",
+      "invoice": "2027-03",
+      "card": "C6 Carbon",
+      "description": "Amazon Prime BR (3/12) Assinatura Prime ronando (6/12)",
+      "installment": "6/12",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -13.9
+    },
+    {
+      "code": "CC-046",
+      "date": "2027-03-03",
+      "purchaseDate": "2026-08-31",
+      "invoice": "2027-04",
+      "card": "C6 Carbon",
+      "description": "Amazon Prime BR (3/12) Assinatura Prime ronando (7/12)",
+      "installment": "7/12",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -13.9
+    },
+    {
+      "code": "CC-047",
+      "date": "2027-03-31",
+      "purchaseDate": "2026-08-31",
+      "invoice": "2027-05",
+      "card": "C6 Carbon",
+      "description": "Amazon Prime BR (3/12) Assinatura Prime ronando (8/12)",
+      "installment": "8/12",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -13.9
+    },
+    {
+      "code": "CC-048",
+      "date": "2027-05-01",
+      "purchaseDate": "2026-08-31",
+      "invoice": "2027-06",
+      "card": "C6 Carbon",
+      "description": "Amazon Prime BR (3/12) Assinatura Prime ronando (9/12)",
+      "installment": "9/12",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -13.9
+    },
+    {
+      "code": "CC-049",
+      "date": "2027-05-31",
+      "purchaseDate": "2026-08-31",
+      "invoice": "2027-07",
+      "card": "C6 Carbon",
+      "description": "Amazon Prime BR (3/12) Assinatura Prime ronando (10/12)",
+      "installment": "10/12",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -13.9
+    },
+    {
+      "code": "CC-050",
+      "date": "2027-07-01",
+      "purchaseDate": "2026-08-31",
+      "invoice": "2027-08",
+      "card": "C6 Carbon",
+      "description": "Amazon Prime BR (3/12) Assinatura Prime ronando (11/12)",
+      "installment": "11/12",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -13.9
+    },
+    {
+      "code": "CC-051",
+      "date": "2027-07-31",
+      "purchaseDate": "2026-08-31",
+      "invoice": "2027-09",
+      "card": "C6 Carbon",
+      "description": "Amazon Prime BR (3/12) Assinatura Prime ronando (12/12)",
+      "installment": "12/12",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -13.9
     }
   ],
   "operators": [
