@@ -1,5 +1,5 @@
 {
-  "activeTab": "configuracoes",
+  "activeTab": "relatorios",
   "accounts": [
     {
       "id": "acc-1795143160146",
@@ -20,7 +20,8 @@
   "cards": [
     "C6 Carbon",
     "Nomad Explorer",
-    "Personnalité Black"
+    "Personnalité Black",
+    "Personnalité Infinite"
   ],
   "cardConfig": {
     "C6 Carbon": {
@@ -38,6 +39,13 @@
     "Personnalité Black": {
       "limit": 39043,
       "brand": "Mastercard",
+      "closingDay": 29,
+      "dueDay": 5,
+      "configured": true
+    },
+    "Personnalité Infinite": {
+      "limit": 32957,
+      "brand": "Visa",
       "closingDay": 29,
       "dueDay": 5,
       "configured": true
