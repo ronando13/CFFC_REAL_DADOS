@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:32:19.037Z"
+      "at": "2026-11-21T23:33:19.056Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:32:19.037Z"
+      "at": "2026-11-21T23:33:19.056Z"
     }
   },
   "cflAuto": {
@@ -908,6 +908,54 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -320.64
+    },
+    {
+      "code": "CC-063",
+      "date": "2026-11-01",
+      "purchaseDate": "2026-10-01",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Payu Adidas (2/5) - Lisi (2/5)",
+      "installment": "2/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -339.99
+    },
+    {
+      "code": "CC-064",
+      "date": "2026-12-01",
+      "purchaseDate": "2026-10-01",
+      "invoice": "2027-01",
+      "card": "C6 Carbon",
+      "description": "Payu Adidas (2/5) - Lisi (3/5)",
+      "installment": "3/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -339.99
+    },
+    {
+      "code": "CC-065",
+      "date": "2027-01-01",
+      "purchaseDate": "2026-10-01",
+      "invoice": "2027-02",
+      "card": "C6 Carbon",
+      "description": "Payu Adidas (2/5) - Lisi (4/5)",
+      "installment": "4/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -339.99
+    },
+    {
+      "code": "CC-066",
+      "date": "2027-02-01",
+      "purchaseDate": "2026-10-01",
+      "invoice": "2027-03",
+      "card": "C6 Carbon",
+      "description": "Payu Adidas (2/5) - Lisi (5/5)",
+      "installment": "5/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -339.99
     }
   ],
   "operators": [
