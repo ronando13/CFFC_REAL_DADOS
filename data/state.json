@@ -111,7 +111,7 @@
       "institution": "C6 Bank",
       "rate": "100",
       "applied": 250.63,
-      "currentValue": 1742.25,
+      "currentValue": 4392.3,
       "startDate": "2023-12-22",
       "dueDate": "2026-12-21",
       "status": "ATIVO"
@@ -187,6 +187,16 @@
       "account": "",
       "note": "",
       "cash": false
+    },
+    {
+      "id": "ie-1795233143408-mzsm",
+      "date": "2026-09-28",
+      "investmentId": "inv-1795233059663-s8rq",
+      "kind": "RENDIMENTO",
+      "value": 2650.05,
+      "account": "",
+      "note": "",
+      "cash": false
     }
   ],
   "invPlans": [],
@@ -195,11 +205,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T03:51:43.821Z"
+      "at": "2026-11-21T03:52:13.807Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T03:51:43.821Z"
+      "at": "2026-11-21T03:52:13.807Z"
     }
   },
   "cflAuto": {
