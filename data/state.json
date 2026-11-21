@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:29:49.040Z"
+      "at": "2026-11-21T23:30:49.051Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:29:49.040Z"
+      "at": "2026-11-21T23:30:49.051Z"
     }
   },
   "cflAuto": {
@@ -776,6 +776,54 @@
       "status": "ABERTO",
       "buyer": "",
       "value": -13.9
+    },
+    {
+      "code": "CC-052",
+      "date": "2026-11-10",
+      "purchaseDate": "2026-09-10",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Amazonmktplc TV estornada beta (3/6) Valor total foi extornado já ronando (3/6)",
+      "installment": "3/6",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -353.72
+    },
+    {
+      "code": "CC-053",
+      "date": "2026-12-10",
+      "purchaseDate": "2026-09-10",
+      "invoice": "2027-01",
+      "card": "C6 Carbon",
+      "description": "Amazonmktplc TV estornada beta (3/6) Valor total foi extornado já ronando (4/6)",
+      "installment": "4/6",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -353.72
+    },
+    {
+      "code": "CC-054",
+      "date": "2027-01-10",
+      "purchaseDate": "2026-09-10",
+      "invoice": "2027-02",
+      "card": "C6 Carbon",
+      "description": "Amazonmktplc TV estornada beta (3/6) Valor total foi extornado já ronando (5/6)",
+      "installment": "5/6",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -353.72
+    },
+    {
+      "code": "CC-055",
+      "date": "2027-02-10",
+      "purchaseDate": "2026-09-10",
+      "invoice": "2027-03",
+      "card": "C6 Carbon",
+      "description": "Amazonmktplc TV estornada beta (3/6) Valor total foi extornado já ronando (6/6)",
+      "installment": "6/6",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -353.72
     }
   ],
   "operators": [
