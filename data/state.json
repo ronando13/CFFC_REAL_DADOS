@@ -349,6 +349,66 @@
       "status": "ABERTO",
       "buyer": "Beta",
       "value": -625
+    },
+    {
+      "code": "CC-032",
+      "date": "2026-11-18",
+      "purchaseDate": "2026-10-18",
+      "invoice": "2026-11",
+      "card": "Nomad Explorer",
+      "description": "IBEROSTAR MATA DE SA (2/6)",
+      "installment": "2/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -1166.66
+    },
+    {
+      "code": "CC-033",
+      "date": "2026-12-18",
+      "purchaseDate": "2026-10-18",
+      "invoice": "2026-12",
+      "card": "Nomad Explorer",
+      "description": "IBEROSTAR MATA DE SA (3/6)",
+      "installment": "3/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -1166.66
+    },
+    {
+      "code": "CC-034",
+      "date": "2027-01-18",
+      "purchaseDate": "2026-10-18",
+      "invoice": "2027-01",
+      "card": "Nomad Explorer",
+      "description": "IBEROSTAR MATA DE SA (4/6)",
+      "installment": "4/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -1166.66
+    },
+    {
+      "code": "CC-035",
+      "date": "2027-02-18",
+      "purchaseDate": "2026-10-18",
+      "invoice": "2027-02",
+      "card": "Nomad Explorer",
+      "description": "IBEROSTAR MATA DE SA (5/6)",
+      "installment": "5/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -1166.66
+    },
+    {
+      "code": "CC-036",
+      "date": "2027-03-18",
+      "purchaseDate": "2026-10-18",
+      "invoice": "2027-03",
+      "card": "Nomad Explorer",
+      "description": "IBEROSTAR MATA DE SA (6/6)",
+      "installment": "6/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -1166.66
     }
   ],
   "operators": [
