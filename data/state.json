@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:31:49.039Z"
+      "at": "2026-11-21T23:32:19.037Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:31:49.039Z"
+      "at": "2026-11-21T23:32:19.037Z"
     }
   },
   "cflAuto": {
@@ -860,6 +860,54 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -145.95
+    },
+    {
+      "code": "CC-059",
+      "date": "2026-11-18",
+      "purchaseDate": "2026-09-18",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Iberostar (3/6) - Lisi (3/6)",
+      "installment": "3/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -320.64
+    },
+    {
+      "code": "CC-060",
+      "date": "2026-12-18",
+      "purchaseDate": "2026-09-18",
+      "invoice": "2027-01",
+      "card": "C6 Carbon",
+      "description": "Iberostar (3/6) - Lisi (4/6)",
+      "installment": "4/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -320.64
+    },
+    {
+      "code": "CC-061",
+      "date": "2027-01-18",
+      "purchaseDate": "2026-09-18",
+      "invoice": "2027-02",
+      "card": "C6 Carbon",
+      "description": "Iberostar (3/6) - Lisi (5/6)",
+      "installment": "5/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -320.64
+    },
+    {
+      "code": "CC-062",
+      "date": "2027-02-18",
+      "purchaseDate": "2026-09-18",
+      "invoice": "2027-03",
+      "card": "C6 Carbon",
+      "description": "Iberostar (3/6) - Lisi (6/6)",
+      "installment": "6/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -320.64
     }
   ],
   "operators": [
