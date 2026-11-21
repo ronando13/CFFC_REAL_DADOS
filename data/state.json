@@ -167,7 +167,8 @@
       "description": "Lisi - Latam Airgxjk (1/1)",
       "installment": "1/1",
       "status": "ABERTO",
-      "value": -94.98
+      "value": -94.98,
+      "buyer": "Lisi"
     },
     {
       "code": "CC-017",
@@ -178,7 +179,8 @@
       "description": "Lisi - SUPER EXPRESS MERCADO CANOAS (1/1)",
       "installment": "1/1",
       "status": "ABERTO",
-      "value": -9.48
+      "value": -9.48,
+      "buyer": "Lisi"
     },
     {
       "code": "CC-018",
@@ -189,7 +191,8 @@
       "description": "Lisi - Minutas (1/1)",
       "installment": "1/1",
       "status": "ABERTO",
-      "value": -24
+      "value": -24,
+      "buyer": "Lisi"
     },
     {
       "code": "CC-019",
@@ -200,7 +203,8 @@
       "description": "Lisi - VERA SUSHI LOUNGE (1/1)",
       "installment": "1/1",
       "status": "ABERTO",
-      "value": -98
+      "value": -98,
+      "buyer": "Lisi"
     },
     {
       "code": "CC-020",
