@@ -1,5 +1,5 @@
 {
-  "activeTab": "configuracoes",
+  "activeTab": "investimentos",
   "accounts": [
     {
       "id": "acc-1795143160146",
@@ -84,7 +84,16 @@
   "invPlans": [],
   "globalAccounts": [],
   "globalEntries": [],
-  "fxLast": {},
+  "fxLast": {
+    "USD": {
+      "v": 5.9488,
+      "at": "2026-11-21T03:43:13.805Z"
+    },
+    "EUR": {
+      "v": 6.5172,
+      "at": "2026-11-21T03:43:13.805Z"
+    }
+  },
   "cflAuto": {
     "fx|vf-1795142254680|2026-11": "skip",
     "fx|vf-1795142214607|2026-11": "skip",
