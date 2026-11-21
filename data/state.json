@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:17:19.049Z"
+      "at": "2026-11-21T23:27:49.037Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:17:19.049Z"
+      "at": "2026-11-21T23:27:49.037Z"
     }
   },
   "cflAuto": {
@@ -596,6 +596,18 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -1166.66
+    },
+    {
+      "code": "CC-037",
+      "date": "2026-11-10",
+      "purchaseDate": "2026-02-10",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "JIM.COM Leonardo (10/10) Material Mont Containers (10/10)",
+      "installment": "10/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1461.66
     }
   ],
   "operators": [
