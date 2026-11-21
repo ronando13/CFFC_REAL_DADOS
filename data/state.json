@@ -207,6 +207,13 @@
       "type": "Conta",
       "currency": "USD",
       "balance": 481.9
+    },
+    {
+      "id": "gb-1795233329469-kw0k",
+      "name": "Revolut",
+      "type": "Conta",
+      "currency": "USD",
+      "balance": 23.5
     }
   ],
   "globalEntries": [
@@ -219,16 +226,26 @@
       "brl": 0,
       "rate": 0,
       "note": "Saldo inicial"
+    },
+    {
+      "id": "ge-1795233329469-4o1s",
+      "date": "2026-11-21",
+      "accountId": "gb-1795233329469-kw0k",
+      "kind": "ENTRADA",
+      "value": 23.5,
+      "brl": 0,
+      "rate": 0,
+      "note": "Saldo inicial"
     }
   ],
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T03:54:43.818Z"
+      "at": "2026-11-21T03:55:13.823Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T03:54:43.818Z"
+      "at": "2026-11-21T03:55:13.823Z"
     }
   },
   "cflAuto": {
