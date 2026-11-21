@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:44:19.049Z"
+      "at": "2026-11-21T23:44:49.043Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:44:19.049Z"
+      "at": "2026-11-21T23:44:49.043Z"
     }
   },
   "cflAuto": {
@@ -1544,6 +1544,102 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -247.37
+    },
+    {
+      "code": "CC-116",
+      "date": "2026-11-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "Sephora Store (1/8) Compra Vini Lisi (1/8)",
+      "installment": "1/8",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -97.5
+    },
+    {
+      "code": "CC-117",
+      "date": "2026-12-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2027-01",
+      "card": "C6 Carbon",
+      "description": "Sephora Store (1/8) Compra Vini Lisi (2/8)",
+      "installment": "2/8",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -97.5
+    },
+    {
+      "code": "CC-118",
+      "date": "2027-01-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2027-02",
+      "card": "C6 Carbon",
+      "description": "Sephora Store (1/8) Compra Vini Lisi (3/8)",
+      "installment": "3/8",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -97.5
+    },
+    {
+      "code": "CC-119",
+      "date": "2027-02-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2027-03",
+      "card": "C6 Carbon",
+      "description": "Sephora Store (1/8) Compra Vini Lisi (4/8)",
+      "installment": "4/8",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -97.5
+    },
+    {
+      "code": "CC-120",
+      "date": "2027-03-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2027-04",
+      "card": "C6 Carbon",
+      "description": "Sephora Store (1/8) Compra Vini Lisi (5/8)",
+      "installment": "5/8",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -97.5
+    },
+    {
+      "code": "CC-121",
+      "date": "2027-04-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2027-05",
+      "card": "C6 Carbon",
+      "description": "Sephora Store (1/8) Compra Vini Lisi (6/8)",
+      "installment": "6/8",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -97.5
+    },
+    {
+      "code": "CC-122",
+      "date": "2027-05-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2027-06",
+      "card": "C6 Carbon",
+      "description": "Sephora Store (1/8) Compra Vini Lisi (7/8)",
+      "installment": "7/8",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -97.5
+    },
+    {
+      "code": "CC-123",
+      "date": "2027-06-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2027-07",
+      "card": "C6 Carbon",
+      "description": "Sephora Store (1/8) Compra Vini Lisi (8/8)",
+      "installment": "8/8",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -97.5
     }
   ],
   "operators": [
