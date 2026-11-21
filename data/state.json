@@ -35,6 +35,7 @@
       "configured": true
     }
   },
+  "people": [],
   "cflAuto": {
     "fx|vf-1795142254680|2026-11": "skip",
     "fx|vf-1795142214607|2026-11": "skip",
