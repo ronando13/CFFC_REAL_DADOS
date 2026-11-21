@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:42:49.049Z"
+      "at": "2026-11-21T23:43:49.045Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:42:49.049Z"
+      "at": "2026-11-21T23:43:49.045Z"
     }
   },
   "cflAuto": {
@@ -1386,7 +1386,7 @@
       "description": "Mercado*Mercadolivre (1/3) ? Lisi Camisa Colete Fem (1/3)",
       "installment": "1/3",
       "status": "ABERTO",
-      "buyer": "Júnior",
+      "buyer": "Lisi",
       "value": -47.48
     },
     {
@@ -1398,7 +1398,7 @@
       "description": "Mercado*Mercadolivre (1/3) ? Lisi Camisa Colete Fem (2/3)",
       "installment": "2/3",
       "status": "ABERTO",
-      "buyer": "Júnior",
+      "buyer": "Lisi",
       "value": -47.48
     },
     {
@@ -1410,7 +1410,7 @@
       "description": "Mercado*Mercadolivre (1/3) ? Lisi Camisa Colete Fem (3/3)",
       "installment": "3/3",
       "status": "ABERTO",
-      "buyer": "Júnior",
+      "buyer": "Lisi",
       "value": -47.48
     }
   ],
