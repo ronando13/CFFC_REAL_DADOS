@@ -200,16 +200,35 @@
     }
   ],
   "invPlans": [],
-  "globalAccounts": [],
-  "globalEntries": [],
+  "globalAccounts": [
+    {
+      "id": "gb-1795233291215-8v8y",
+      "name": "Nomad",
+      "type": "Conta",
+      "currency": "USD",
+      "balance": 481.9
+    }
+  ],
+  "globalEntries": [
+    {
+      "id": "ge-1795233291215-iemp",
+      "date": "2026-11-21",
+      "accountId": "gb-1795233291215-8v8y",
+      "kind": "ENTRADA",
+      "value": 481.9,
+      "brl": 0,
+      "rate": 0,
+      "note": "Saldo inicial"
+    }
+  ],
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T03:53:13.819Z"
+      "at": "2026-11-21T03:54:43.818Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T03:53:13.819Z"
+      "at": "2026-11-21T03:54:43.818Z"
     }
   },
   "cflAuto": {
