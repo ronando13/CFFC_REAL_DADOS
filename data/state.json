@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T23:38:49.044Z"
+      "at": "2026-11-21T23:39:19.055Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T23:38:49.044Z"
+      "at": "2026-11-21T23:39:19.055Z"
     }
   },
   "cflAuto": {
@@ -1328,6 +1328,18 @@
       "status": "ABERTO",
       "buyer": "Ana Lúcia",
       "value": -71.99
+    },
+    {
+      "code": "CC-098",
+      "date": "2026-11-06",
+      "purchaseDate": "2026-11-06",
+      "invoice": "2026-12",
+      "card": "C6 Carbon",
+      "description": "MK Park - Lisi (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -10.5
     }
   ],
   "operators": [
