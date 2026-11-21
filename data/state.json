@@ -79,19 +79,43 @@
       "phone": "51996376130"
     }
   ],
-  "investments": [],
-  "investEntries": [],
+  "investments": [
+    {
+      "id": "inv-1795232683502-hhz3",
+      "type": "CDB",
+      "name": "CDB Mercado Pago",
+      "institution": "Mercado Pago",
+      "rate": "105",
+      "applied": 20000,
+      "currentValue": 20000,
+      "startDate": "2026-11-21",
+      "dueDate": "2026-11-21",
+      "status": "ATIVO"
+    }
+  ],
+  "investEntries": [
+    {
+      "id": "ie-1795232683503-h7vo",
+      "date": "2026-11-21",
+      "investmentId": "inv-1795232683502-hhz3",
+      "kind": "APORTE",
+      "value": 20000,
+      "account": "",
+      "note": "posição inicial",
+      "cash": false
+    }
+  ],
   "invPlans": [],
   "globalAccounts": [],
   "globalEntries": [],
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T03:43:13.805Z"
+      "at": "2026-11-21T03:44:43.808Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T03:43:13.805Z"
+      "at": "2026-11-21T03:44:43.808Z"
     }
   },
   "cflAuto": {
