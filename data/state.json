@@ -91,6 +91,18 @@
       "startDate": "2026-11-21",
       "dueDate": "2026-11-21",
       "status": "ATIVO"
+    },
+    {
+      "id": "inv-1795232847835-r5k0",
+      "type": "CDB",
+      "name": "Cofrinho Mercado Pago",
+      "institution": "Mercado Pago",
+      "rate": "120",
+      "applied": 10000,
+      "currentValue": 10000,
+      "startDate": "2026-11-21",
+      "dueDate": "2027-11-21",
+      "status": "ATIVO"
     }
   ],
   "investEntries": [
@@ -113,6 +125,16 @@
       "account": "",
       "note": "",
       "cash": false
+    },
+    {
+      "id": "ie-1795232847836-207o",
+      "date": "2026-11-21",
+      "investmentId": "inv-1795232847835-r5k0",
+      "kind": "APORTE",
+      "value": 10000,
+      "account": "",
+      "note": "posição inicial",
+      "cash": false
     }
   ],
   "invPlans": [],
@@ -121,11 +143,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-21T03:45:43.823Z"
+      "at": "2026-11-21T03:47:13.824Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-21T03:45:43.823Z"
+      "at": "2026-11-21T03:47:13.824Z"
     }
   },
   "cflAuto": {
