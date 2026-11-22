@@ -2692,6 +2692,54 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -70.56
+    },
+    {
+      "code": "CC-212",
+      "date": "2026-11-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Many modas (2/5) - Lisi (2/5)",
+      "installment": "2/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -103.94
+    },
+    {
+      "code": "CC-213",
+      "date": "2026-12-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2027-01",
+      "card": "Santander Unique",
+      "description": "Many modas (2/5) - Lisi (3/5)",
+      "installment": "3/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -103.94
+    },
+    {
+      "code": "CC-214",
+      "date": "2027-01-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2027-02",
+      "card": "Santander Unique",
+      "description": "Many modas (2/5) - Lisi (4/5)",
+      "installment": "4/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -103.94
+    },
+    {
+      "code": "CC-215",
+      "date": "2027-02-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2027-03",
+      "card": "Santander Unique",
+      "description": "Many modas (2/5) - Lisi (5/5)",
+      "installment": "5/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -103.94
     }
   ],
   "operators": [
