@@ -276,11 +276,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T02:02:11.755Z"
+      "at": "2026-11-22T02:02:41.755Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T02:02:11.755Z"
+      "at": "2026-11-22T02:02:41.755Z"
     }
   },
   "cflAuto": {
@@ -296,7 +296,8 @@
     "Alimentação",
     "Transporte",
     "Moradia",
-    "Receitas"
+    "Receitas",
+    "Saque"
   ],
   "subcategories": [
     {
