@@ -4,7 +4,7 @@
     {
       "id": "acc-1795143160146",
       "name": "Carteira",
-      "balance": 4882.69
+      "balance": 250
     },
     {
       "id": "acc-1795143168229",
@@ -573,16 +573,6 @@
       "status": "PAGO",
       "value": -4632.69,
       "origin": "CFL fatura de cartão"
-    },
-    {
-      "id": "ct-1795317712779",
-      "date": "2026-11-22",
-      "account": "Carteira",
-      "description": "Ajuste",
-      "category": "Reembolso",
-      "subcategory": "",
-      "status": "PAGO",
-      "value": 4632.69
     }
   ],
   "reimbursements": [],
