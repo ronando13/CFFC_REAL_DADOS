@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:38:50.444Z"
+      "at": "2026-11-22T00:39:20.465Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:38:50.444Z"
+      "at": "2026-11-22T00:39:20.465Z"
     }
   },
   "cflAuto": {
@@ -2108,6 +2108,66 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -605.04
+    },
+    {
+      "code": "CC-164",
+      "date": "2026-11-05",
+      "purchaseDate": "2026-10-05",
+      "invoice": "2026-12",
+      "card": "Personnalité Infinite",
+      "description": "Airbnb (2/6) - Lisi (2/6)",
+      "installment": "2/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -398.7
+    },
+    {
+      "code": "CC-165",
+      "date": "2026-12-05",
+      "purchaseDate": "2026-10-05",
+      "invoice": "2027-01",
+      "card": "Personnalité Infinite",
+      "description": "Airbnb (2/6) - Lisi (3/6)",
+      "installment": "3/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -398.7
+    },
+    {
+      "code": "CC-166",
+      "date": "2027-01-05",
+      "purchaseDate": "2026-10-05",
+      "invoice": "2027-02",
+      "card": "Personnalité Infinite",
+      "description": "Airbnb (2/6) - Lisi (4/6)",
+      "installment": "4/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -398.7
+    },
+    {
+      "code": "CC-167",
+      "date": "2027-02-05",
+      "purchaseDate": "2026-10-05",
+      "invoice": "2027-03",
+      "card": "Personnalité Infinite",
+      "description": "Airbnb (2/6) - Lisi (5/6)",
+      "installment": "5/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -398.7
+    },
+    {
+      "code": "CC-168",
+      "date": "2027-03-05",
+      "purchaseDate": "2026-10-05",
+      "invoice": "2027-04",
+      "card": "Personnalité Infinite",
+      "description": "Airbnb (2/6) - Lisi (6/6)",
+      "installment": "6/6",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -398.7
     }
   ],
   "operators": [
