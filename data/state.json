@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:39:20.465Z"
+      "at": "2026-11-22T00:39:50.453Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:39:20.465Z"
+      "at": "2026-11-22T00:39:50.454Z"
     }
   },
   "cflAuto": {
@@ -2168,6 +2168,18 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -398.7
+    },
+    {
+      "code": "CC-169",
+      "date": "2026-11-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2026-12",
+      "card": "Personnalité Infinite",
+      "description": "Loja Maria Caroli (2/2) - Lisi (2/2)",
+      "installment": "2/2",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -50
     }
   ],
   "operators": [
