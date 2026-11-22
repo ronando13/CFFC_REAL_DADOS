@@ -4,7 +4,7 @@
     {
       "id": "acc-1795143160146",
       "name": "Carteira",
-      "balance": 501
+      "balance": 500
     },
     {
       "id": "acc-1795143168229",
@@ -355,19 +355,7 @@
     }
   ],
   "cfl": [],
-  "contasEntries": [
-    {
-      "id": "ct-1795312117297-5ins",
-      "date": "2026-11-21",
-      "account": "Carteira",
-      "description": "teste",
-      "category": "Receitas",
-      "subcategory": "",
-      "status": "PAGO",
-      "value": 1,
-      "origin": "CFL valor fixo"
-    }
-  ],
+  "contasEntries": [],
   "ccred": [
     {
       "code": "CC-016",
