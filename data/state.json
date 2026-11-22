@@ -4,7 +4,7 @@
     {
       "id": "acc-1795143160146",
       "name": "Carteira",
-      "balance": 500
+      "balance": 501
     },
     {
       "id": "acc-1795143168229",
@@ -254,11 +254,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T01:47:41.753Z"
+      "at": "2026-11-22T01:48:11.753Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T01:47:41.753Z"
+      "at": "2026-11-22T01:48:11.753Z"
     }
   },
   "cflAuto": {
@@ -267,12 +267,14 @@
     "fx|vf-1795142229158|2026-11": "done",
     "fx|vf-1795256466327-iip|2026-11": "skip",
     "fx|vf-1795256414172-kp3|2026-11": "skip",
-    "fx|vf-1795256387960-k79|2026-11": "skip"
+    "fx|vf-1795256387960-k79|2026-11": "skip",
+    "fx|vf-1795312063306-11p|2026-11": "done"
   },
   "categories": [
     "Alimentação",
     "Transporte",
-    "Moradia"
+    "Moradia",
+    "Receitas"
   ],
   "subcategories": [
     {
@@ -353,7 +355,19 @@
     }
   ],
   "cfl": [],
-  "contasEntries": [],
+  "contasEntries": [
+    {
+      "id": "ct-1795312117297-5ins",
+      "date": "2026-11-21",
+      "account": "Carteira",
+      "description": "teste",
+      "category": "Receitas",
+      "subcategory": "",
+      "status": "PAGO",
+      "value": 1,
+      "origin": "CFL valor fixo"
+    }
+  ],
   "ccred": [
     {
       "code": "CC-016",
