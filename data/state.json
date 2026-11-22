@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:24:15.070Z"
+      "at": "2026-11-22T00:25:15.055Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:24:15.070Z"
+      "at": "2026-11-22T00:25:15.055Z"
     }
   },
   "cflAuto": {
@@ -1844,6 +1844,18 @@
       "status": "ABERTO",
       "buyer": "",
       "value": 0.12
+    },
+    {
+      "code": "CC-141",
+      "date": "2026-10-30",
+      "purchaseDate": "2026-10-30",
+      "invoice": "2026-12",
+      "card": "Personnalité Black",
+      "description": "Lisi - Uber - Lisi (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -13.09
     }
   ],
   "operators": [
