@@ -249,11 +249,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:50:20.459Z"
+      "at": "2026-11-22T00:50:50.453Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:50:20.459Z"
+      "at": "2026-11-22T00:50:50.453Z"
     }
   },
   "cflAuto": {
@@ -2764,6 +2764,18 @@
       "status": "ABERTO",
       "buyer": "Júnior",
       "value": -9.98
+    },
+    {
+      "code": "CC-218",
+      "date": "2026-11-07",
+      "purchaseDate": "2026-11-07",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Mokai express canoas - Lisi (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -136.94
     }
   ],
   "operators": [
