@@ -249,11 +249,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:47:20.520Z"
+      "at": "2026-11-22T00:47:50.453Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:47:20.520Z"
+      "at": "2026-11-22T00:47:50.453Z"
     }
   },
   "cflAuto": {
@@ -2560,6 +2560,18 @@
       "status": "ABERTO",
       "buyer": "",
       "value": -36.5
+    },
+    {
+      "code": "CC-201",
+      "date": "2026-11-17",
+      "purchaseDate": "2026-09-17",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Linka biquinis (3/3) - Lis (3/3)",
+      "installment": "3/3",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -146.6
     }
   ],
   "operators": [
