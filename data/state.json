@@ -1,5 +1,5 @@
 {
-  "activeTab": "configuracoes",
+  "activeTab": "cfl",
   "accounts": [
     {
       "id": "acc-1795143160146",
@@ -346,12 +346,6 @@
       "day": 5,
       "description": "Energia Elétrica",
       "value": -300
-    },
-    {
-      "id": "vf-1795312063306-11p",
-      "day": 21,
-      "description": "teste",
-      "value": 10
     }
   ],
   "cfl": [],
