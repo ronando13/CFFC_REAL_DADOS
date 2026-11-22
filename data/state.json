@@ -19,7 +19,7 @@
     {
       "id": "acc-1795309037224",
       "name": "Personnalité",
-      "balance": -11947.5
+      "balance": 2.57
     }
   ],
   "cards": [
@@ -335,11 +335,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T03:22:51.661Z"
+      "at": "2026-11-22T03:23:21.663Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T03:22:51.661Z"
+      "at": "2026-11-22T03:23:21.663Z"
     }
   },
   "cflAuto": {
@@ -593,6 +593,16 @@
       "subcategory": "",
       "status": "PAGO",
       "value": 8184.71
+    },
+    {
+      "id": "ct-1795317818325",
+      "date": "2026-11-22",
+      "account": "Personnalité",
+      "description": "Ajuste",
+      "category": "Reembolso",
+      "subcategory": "",
+      "status": "PAGO",
+      "value": 11950.07
     }
   ],
   "reimbursements": [],
