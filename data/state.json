@@ -19,7 +19,7 @@
     {
       "id": "acc-1795309037224",
       "name": "Personnalité",
-      "balance": 11
+      "balance": 1
     }
   ],
   "cards": [
@@ -348,11 +348,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T13:30:51.846Z"
+      "at": "2026-11-22T13:31:21.857Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T13:30:51.846Z"
+      "at": "2026-11-22T13:31:21.857Z"
     }
   },
   "cflAuto": {
@@ -633,6 +633,16 @@
       "status": "PAGO",
       "value": 8.43,
       "origin": "INVESTIMENTO"
+    },
+    {
+      "id": "ct-1795354307960",
+      "date": "2026-11-22",
+      "account": "Personnalité",
+      "description": "Doação",
+      "category": "Saque",
+      "subcategory": "Ronando",
+      "status": "PAGO",
+      "value": -10
     }
   ],
   "reimbursements": [],
