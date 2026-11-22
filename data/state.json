@@ -249,11 +249,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:44:20.465Z"
+      "at": "2026-11-22T00:44:50.451Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:44:20.465Z"
+      "at": "2026-11-22T00:44:50.451Z"
     }
   },
   "cflAuto": {
@@ -2284,6 +2284,66 @@
       "status": "ABERTO",
       "buyer": "Beta",
       "value": -830
+    },
+    {
+      "code": "CC-178",
+      "date": "2026-11-18",
+      "purchaseDate": "2026-06-18",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Beta - Mp *autocentersto (6/10) Oficina Jetta Beta (6/10)",
+      "installment": "6/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -543.6
+    },
+    {
+      "code": "CC-179",
+      "date": "2026-12-18",
+      "purchaseDate": "2026-06-18",
+      "invoice": "2027-01",
+      "card": "Santander Unique",
+      "description": "Beta - Mp *autocentersto (6/10) Oficina Jetta Beta (7/10)",
+      "installment": "7/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -543.6
+    },
+    {
+      "code": "CC-180",
+      "date": "2027-01-18",
+      "purchaseDate": "2026-06-18",
+      "invoice": "2027-02",
+      "card": "Santander Unique",
+      "description": "Beta - Mp *autocentersto (6/10) Oficina Jetta Beta (8/10)",
+      "installment": "8/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -543.6
+    },
+    {
+      "code": "CC-181",
+      "date": "2027-02-18",
+      "purchaseDate": "2026-06-18",
+      "invoice": "2027-03",
+      "card": "Santander Unique",
+      "description": "Beta - Mp *autocentersto (6/10) Oficina Jetta Beta (9/10)",
+      "installment": "9/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -543.6
+    },
+    {
+      "code": "CC-182",
+      "date": "2027-03-18",
+      "purchaseDate": "2026-06-18",
+      "invoice": "2027-04",
+      "card": "Santander Unique",
+      "description": "Beta - Mp *autocentersto (6/10) Oficina Jetta Beta (10/10)",
+      "installment": "10/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -543.6
     }
   ],
   "operators": [
