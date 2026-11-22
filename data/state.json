@@ -249,11 +249,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:49:50.454Z"
+      "at": "2026-11-22T00:50:20.459Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:49:50.454Z"
+      "at": "2026-11-22T00:50:20.459Z"
     }
   },
   "cflAuto": {
@@ -2752,6 +2752,18 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": 0.07
+    },
+    {
+      "code": "CC-217",
+      "date": "2026-11-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Gclovattoecialtda Esparadrapos Júnior Esparadrapos (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Júnior",
+      "value": -9.98
     }
   ],
   "operators": [
