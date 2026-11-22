@@ -19,7 +19,7 @@
     {
       "id": "acc-1795309037224",
       "name": "Personnalité",
-      "balance": 2.57
+      "balance": -7713.78
     }
   ],
   "cards": [
@@ -335,11 +335,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T03:19:51.663Z"
+      "at": "2026-11-22T03:20:21.664Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T03:19:51.663Z"
+      "at": "2026-11-22T03:20:21.664Z"
     }
   },
   "cflAuto": {
@@ -534,6 +534,17 @@
       "subcategory": "Fatura de Cartão",
       "status": "PAGO",
       "value": -8184.71,
+      "origin": "CFL fatura de cartão"
+    },
+    {
+      "id": "ct-1795317618752-0gwb",
+      "date": "2026-11-05",
+      "account": "Personnalité",
+      "description": "Fatura Personnalité Infinite 11/2026 (vencida)",
+      "category": "Cartões",
+      "subcategory": "Fatura de Cartão",
+      "status": "PAGO",
+      "value": -7716.35,
       "origin": "CFL fatura de cartão"
     }
   ],
@@ -772,7 +783,7 @@
       "notes": "Combustível",
       "installment": "1/1",
       "installmentGroupId": "grp_1792721553031",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
@@ -794,7 +805,7 @@
       "notes": "",
       "installment": "1/1",
       "installmentGroupId": "grp_1792722057951",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
@@ -816,7 +827,7 @@
       "notes": "",
       "installment": "1/4",
       "installmentGroupId": "grp_1792722132004",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
@@ -838,7 +849,7 @@
       "notes": "",
       "installment": "1/2",
       "installmentGroupId": "grp_1792722201172",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
@@ -860,7 +871,7 @@
       "notes": "",
       "installment": "1/6",
       "installmentGroupId": "grp_1792722296638",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
@@ -882,7 +893,7 @@
       "notes": "",
       "installment": "1/1",
       "installmentGroupId": "grp_1792722335823",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
@@ -904,7 +915,7 @@
       "notes": "",
       "installment": "1/5",
       "installmentGroupId": "grp_1792722389013",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
@@ -926,7 +937,7 @@
       "notes": "",
       "installment": "1/1",
       "installmentGroupId": "grp_1792722418513",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
@@ -948,7 +959,7 @@
       "notes": "",
       "installment": "2/4",
       "installmentGroupId": "grp_1792725186877",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
@@ -970,7 +981,7 @@
       "notes": "Compra da VAN",
       "installment": "3/12",
       "installmentGroupId": "grp_1792725234822",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Beta",
       "isReimbursed": false,
       "offInvoice": false,
@@ -992,7 +1003,7 @@
       "notes": "",
       "installment": "4/4",
       "installmentGroupId": "grp_1792725295149",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
@@ -1014,7 +1025,7 @@
       "notes": "Maquina DQual  44k",
       "installment": "6/10",
       "installmentGroupId": "grp_1792725333191",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Beta",
       "isReimbursed": false,
       "offInvoice": false,
@@ -1036,7 +1047,7 @@
       "notes": "",
       "installment": "1/1",
       "installmentGroupId": "grp_1792793025189",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
@@ -2730,7 +2741,7 @@
       "notes": "Extorno",
       "installment": "1/1",
       "installmentGroupId": null,
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
@@ -2752,7 +2763,7 @@
       "notes": "Extorno",
       "installment": "1/1",
       "installmentGroupId": null,
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
