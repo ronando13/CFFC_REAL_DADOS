@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:37:20.456Z"
+      "at": "2026-11-22T00:38:20.453Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:37:20.456Z"
+      "at": "2026-11-22T00:38:20.453Z"
     }
   },
   "cflAuto": {
@@ -2036,6 +2036,30 @@
       "status": "ABERTO",
       "buyer": "Beta",
       "value": -1083.37
+    },
+    {
+      "code": "CC-158",
+      "date": "2026-11-16",
+      "purchaseDate": "2026-09-16",
+      "invoice": "2026-12",
+      "card": "Personnalité Infinite",
+      "description": "Alexandre cavalcan (3/4) - Lisi (3/4)",
+      "installment": "3/4",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -275.01
+    },
+    {
+      "code": "CC-159",
+      "date": "2026-12-16",
+      "purchaseDate": "2026-09-16",
+      "invoice": "2027-01",
+      "card": "Personnalité Infinite",
+      "description": "Alexandre cavalcan (3/4) - Lisi (4/4)",
+      "installment": "4/4",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -275.01
     }
   ],
   "operators": [
