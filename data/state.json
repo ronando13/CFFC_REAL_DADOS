@@ -128,6 +128,18 @@
       "startDate": "2023-12-22",
       "dueDate": "2026-12-21",
       "status": "ATIVO"
+    },
+    {
+      "id": "inv-1795312541158-e30o",
+      "type": "CDB",
+      "name": "CDB DI SANTANDER",
+      "institution": "Santander",
+      "rate": "100",
+      "applied": 136.14,
+      "currentValue": 136.14,
+      "startDate": "2026-11-21",
+      "dueDate": "2028-05-22",
+      "status": "ATIVO"
     }
   ],
   "investEntries": [
@@ -210,6 +222,16 @@
       "account": "",
       "note": "",
       "cash": false
+    },
+    {
+      "id": "ie-1795312541159-z9gw",
+      "date": "2026-11-21",
+      "investmentId": "inv-1795312541158-e30o",
+      "kind": "APORTE",
+      "value": 136.14,
+      "account": "",
+      "note": "posição inicial",
+      "cash": false
     }
   ],
   "invPlans": [],
@@ -254,11 +276,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T01:50:41.757Z"
+      "at": "2026-11-22T01:55:41.755Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T01:50:41.757Z"
+      "at": "2026-11-22T01:55:41.755Z"
     }
   },
   "cflAuto": {
