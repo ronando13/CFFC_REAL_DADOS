@@ -249,6 +249,13 @@
       "type": "Conta",
       "currency": "USD",
       "balance": 23.5
+    },
+    {
+      "id": "gb-1795313136438-2hiu",
+      "name": "Cash",
+      "type": "Conta",
+      "currency": "USD",
+      "balance": 63
     }
   ],
   "globalEntries": [
@@ -271,16 +278,26 @@
       "brl": 0,
       "rate": 0,
       "note": "Saldo inicial"
+    },
+    {
+      "id": "ge-1795313136438-7wra",
+      "date": "2026-11-21",
+      "accountId": "gb-1795313136438-2hiu",
+      "kind": "ENTRADA",
+      "value": 63,
+      "brl": 0,
+      "rate": 0,
+      "note": "Saldo inicial"
     }
   ],
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T02:04:11.756Z"
+      "at": "2026-11-22T02:05:11.756Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T02:04:11.756Z"
+      "at": "2026-11-22T02:05:11.756Z"
     }
   },
   "cflAuto": {
