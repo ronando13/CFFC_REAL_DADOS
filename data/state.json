@@ -9,7 +9,7 @@
     {
       "id": "acc-1795143168229",
       "name": "Santander",
-      "balance": -4632.69
+      "balance": 0
     },
     {
       "id": "acc-1795143180457",
@@ -335,11 +335,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T03:21:51.662Z"
+      "at": "2026-11-22T03:22:21.664Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T03:21:51.662Z"
+      "at": "2026-11-22T03:22:21.664Z"
     }
   },
   "cflAuto": {
@@ -573,6 +573,16 @@
       "status": "PAGO",
       "value": -4632.69,
       "origin": "CFL fatura de cartão"
+    },
+    {
+      "id": "ct-1795317742655",
+      "date": "2026-11-22",
+      "account": "Santander",
+      "description": "Ajuste",
+      "category": "Reembolso",
+      "subcategory": "",
+      "status": "PAGO",
+      "value": 4632.69
     }
   ],
   "reimbursements": [],
