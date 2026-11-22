@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:16:19.047Z"
+      "at": "2026-11-22T00:17:19.050Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:16:19.047Z"
+      "at": "2026-11-22T00:17:19.050Z"
     }
   },
   "cflAuto": {
@@ -1784,6 +1784,54 @@
       "status": "ABERTO",
       "buyer": "Beta",
       "value": -468.31
+    },
+    {
+      "code": "CC-136",
+      "date": "2026-11-04",
+      "purchaseDate": "2026-10-04",
+      "invoice": "2026-12",
+      "card": "Personnalité Black",
+      "description": "Gol linhas (2/5) - Lisi (2/5)",
+      "installment": "2/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -568.6
+    },
+    {
+      "code": "CC-137",
+      "date": "2026-12-04",
+      "purchaseDate": "2026-10-04",
+      "invoice": "2027-01",
+      "card": "Personnalité Black",
+      "description": "Gol linhas (2/5) - Lisi (3/5)",
+      "installment": "3/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -568.6
+    },
+    {
+      "code": "CC-138",
+      "date": "2027-01-04",
+      "purchaseDate": "2026-10-04",
+      "invoice": "2027-02",
+      "card": "Personnalité Black",
+      "description": "Gol linhas (2/5) - Lisi (4/5)",
+      "installment": "4/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -568.6
+    },
+    {
+      "code": "CC-139",
+      "date": "2027-02-04",
+      "purchaseDate": "2026-10-04",
+      "invoice": "2027-03",
+      "card": "Personnalité Black",
+      "description": "Gol linhas (2/5) - Lisi (5/5)",
+      "installment": "5/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -568.6
     }
   ],
   "operators": [
