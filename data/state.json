@@ -249,11 +249,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:45:50.458Z"
+      "at": "2026-11-22T00:46:20.458Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:45:50.458Z"
+      "at": "2026-11-22T00:46:20.458Z"
     }
   },
   "cflAuto": {
@@ -2404,6 +2404,114 @@
       "status": "ABERTO",
       "buyer": "Beta",
       "value": -120
+    },
+    {
+      "code": "CC-188",
+      "date": "2026-11-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (4/12) Compra da VAN Beta (4/12)",
+      "installment": "4/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.66
+    },
+    {
+      "code": "CC-189",
+      "date": "2026-12-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-01",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (4/12) Compra da VAN Beta (5/12)",
+      "installment": "5/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.66
+    },
+    {
+      "code": "CC-190",
+      "date": "2027-01-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-02",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (4/12) Compra da VAN Beta (6/12)",
+      "installment": "6/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.66
+    },
+    {
+      "code": "CC-191",
+      "date": "2027-02-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-03",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (4/12) Compra da VAN Beta (7/12)",
+      "installment": "7/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.66
+    },
+    {
+      "code": "CC-192",
+      "date": "2027-03-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-04",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (4/12) Compra da VAN Beta (8/12)",
+      "installment": "8/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.66
+    },
+    {
+      "code": "CC-193",
+      "date": "2027-04-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-05",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (4/12) Compra da VAN Beta (9/12)",
+      "installment": "9/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.66
+    },
+    {
+      "code": "CC-194",
+      "date": "2027-05-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-06",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (4/12) Compra da VAN Beta (10/12)",
+      "installment": "10/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.66
+    },
+    {
+      "code": "CC-195",
+      "date": "2027-06-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-07",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (4/12) Compra da VAN Beta (11/12)",
+      "installment": "11/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.66
+    },
+    {
+      "code": "CC-196",
+      "date": "2027-07-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-08",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (4/12) Compra da VAN Beta (12/12)",
+      "installment": "12/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.66
     }
   ],
   "operators": [
