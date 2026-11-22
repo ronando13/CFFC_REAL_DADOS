@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:39:50.453Z"
+      "at": "2026-11-22T00:40:20.454Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:39:50.454Z"
+      "at": "2026-11-22T00:40:20.454Z"
     }
   },
   "cflAuto": {
@@ -2180,6 +2180,42 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -50
+    },
+    {
+      "code": "CC-170",
+      "date": "2026-11-10",
+      "purchaseDate": "2026-10-10",
+      "invoice": "2026-12",
+      "card": "Personnalité Infinite",
+      "description": "Zinzane (2/4) - Lisi (2/4)",
+      "installment": "2/4",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -197.49
+    },
+    {
+      "code": "CC-171",
+      "date": "2026-12-10",
+      "purchaseDate": "2026-10-10",
+      "invoice": "2027-01",
+      "card": "Personnalité Infinite",
+      "description": "Zinzane (2/4) - Lisi (3/4)",
+      "installment": "3/4",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -197.49
+    },
+    {
+      "code": "CC-172",
+      "date": "2027-01-10",
+      "purchaseDate": "2026-10-10",
+      "invoice": "2027-02",
+      "card": "Personnalité Infinite",
+      "description": "Zinzane (2/4) - Lisi (4/4)",
+      "installment": "4/4",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -197.49
     }
   ],
   "operators": [
