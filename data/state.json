@@ -249,11 +249,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:44:50.451Z"
+      "at": "2026-11-22T00:45:50.458Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:44:50.451Z"
+      "at": "2026-11-22T00:45:50.458Z"
     }
   },
   "cflAuto": {
@@ -2344,6 +2344,66 @@
       "status": "ABERTO",
       "buyer": "Beta",
       "value": -543.6
+    },
+    {
+      "code": "CC-183",
+      "date": "2026-11-20",
+      "purchaseDate": "2026-06-20",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (6/10) - Beta (6/10)",
+      "installment": "6/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -120
+    },
+    {
+      "code": "CC-184",
+      "date": "2026-12-20",
+      "purchaseDate": "2026-06-20",
+      "invoice": "2027-01",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (6/10) - Beta (7/10)",
+      "installment": "7/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -120
+    },
+    {
+      "code": "CC-185",
+      "date": "2027-01-20",
+      "purchaseDate": "2026-06-20",
+      "invoice": "2027-02",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (6/10) - Beta (8/10)",
+      "installment": "8/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -120
+    },
+    {
+      "code": "CC-186",
+      "date": "2027-02-20",
+      "purchaseDate": "2026-06-20",
+      "invoice": "2027-03",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (6/10) - Beta (9/10)",
+      "installment": "9/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -120
+    },
+    {
+      "code": "CC-187",
+      "date": "2027-03-20",
+      "purchaseDate": "2026-06-20",
+      "invoice": "2027-04",
+      "card": "Santander Unique",
+      "description": "Beta - Leonardocruzda (6/10) - Beta (10/10)",
+      "installment": "10/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -120
     }
   ],
   "operators": [
