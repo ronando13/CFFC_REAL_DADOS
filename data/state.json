@@ -1868,6 +1868,18 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -8.42
+    },
+    {
+      "code": "CC-143",
+      "date": "2026-11-10",
+      "purchaseDate": "2026-11-10",
+      "invoice": "2026-12",
+      "card": "Personnalité Black",
+      "description": "Lisi - Uber - Lisi (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -19.9
     }
   ],
   "operators": [
