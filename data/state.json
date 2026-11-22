@@ -293,11 +293,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T02:09:41.750Z"
+      "at": "2026-11-22T02:10:11.756Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T02:09:41.750Z"
+      "at": "2026-11-22T02:10:11.756Z"
     }
   },
   "cflAuto": {
@@ -434,6 +434,16 @@
       "subcategory": "Beta",
       "recurrence": "Único",
       "value": 625
+    },
+    {
+      "code": "CFL-002",
+      "date": "2026-11-25",
+      "description": "Lisi - Reembolso Nomad",
+      "account": "Personnalité",
+      "category": "Reembolso",
+      "subcategory": "Lisi",
+      "recurrence": "Único",
+      "value": 263.69
     }
   ],
   "contasEntries": [
