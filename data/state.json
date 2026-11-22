@@ -249,11 +249,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:48:50.446Z"
+      "at": "2026-11-22T00:49:50.454Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:48:50.446Z"
+      "at": "2026-11-22T00:49:50.454Z"
     }
   },
   "cflAuto": {
@@ -2740,6 +2740,18 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -103.94
+    },
+    {
+      "code": "CC-216",
+      "date": "2026-11-09",
+      "purchaseDate": "2026-11-09",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Radan - Lisi (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": 0.07
     }
   ],
   "operators": [
