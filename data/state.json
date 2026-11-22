@@ -249,11 +249,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:46:20.458Z"
+      "at": "2026-11-22T00:47:20.520Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:46:20.458Z"
+      "at": "2026-11-22T00:47:20.520Z"
     }
   },
   "cflAuto": {
@@ -2512,6 +2512,54 @@
       "status": "ABERTO",
       "buyer": "Beta",
       "value": -1541.66
+    },
+    {
+      "code": "CC-197",
+      "date": "2026-11-27",
+      "purchaseDate": "2026-09-27",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Fone JBL Ronando (3/6) Fones JBL Wave2 ronando (3/6)",
+      "installment": "3/6",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -36.5
+    },
+    {
+      "code": "CC-198",
+      "date": "2026-12-27",
+      "purchaseDate": "2026-09-27",
+      "invoice": "2027-01",
+      "card": "Santander Unique",
+      "description": "Fone JBL Ronando (3/6) Fones JBL Wave2 ronando (4/6)",
+      "installment": "4/6",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -36.5
+    },
+    {
+      "code": "CC-199",
+      "date": "2027-01-27",
+      "purchaseDate": "2026-09-27",
+      "invoice": "2027-02",
+      "card": "Santander Unique",
+      "description": "Fone JBL Ronando (3/6) Fones JBL Wave2 ronando (5/6)",
+      "installment": "5/6",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -36.5
+    },
+    {
+      "code": "CC-200",
+      "date": "2027-02-27",
+      "purchaseDate": "2026-09-27",
+      "invoice": "2027-03",
+      "card": "Santander Unique",
+      "description": "Fone JBL Ronando (3/6) Fones JBL Wave2 ronando (6/6)",
+      "installment": "6/6",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": -36.5
     }
   ],
   "operators": [
