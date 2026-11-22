@@ -2848,6 +2848,18 @@
       "status": "ABERTO",
       "buyer": "Júnior",
       "value": -56.85
+    },
+    {
+      "code": "CC-225",
+      "date": "2026-11-17",
+      "purchaseDate": "2026-11-17",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Junior - GTA - Júnior (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Júnior",
+      "value": -547.87
     }
   ],
   "operators": [
