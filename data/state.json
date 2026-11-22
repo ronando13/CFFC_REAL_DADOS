@@ -21,7 +21,8 @@
     "C6 Carbon",
     "Nomad Explorer",
     "Personnalité Black",
-    "Personnalité Infinite"
+    "Personnalité Infinite",
+    "Santander Unique"
   ],
   "cardConfig": {
     "C6 Carbon": {
@@ -50,6 +51,13 @@
       "brand": "Visa",
       "closingDay": 29,
       "dueDay": 5,
+      "configured": true
+    },
+    "Santander Unique": {
+      "limit": 35190,
+      "brand": "Visa",
+      "closingDay": 29,
+      "dueDay": 6,
       "configured": true
     }
   },
@@ -241,11 +249,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:41:20.455Z"
+      "at": "2026-11-22T00:43:20.453Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:41:20.455Z"
+      "at": "2026-11-22T00:43:20.453Z"
     }
   },
   "cflAuto": {
