@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:17:19.050Z"
+      "at": "2026-11-22T00:24:15.070Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:17:19.050Z"
+      "at": "2026-11-22T00:24:15.070Z"
     }
   },
   "cflAuto": {
@@ -1832,6 +1832,18 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -568.6
+    },
+    {
+      "code": "CC-140",
+      "date": "2026-11-04",
+      "purchaseDate": "2026-11-04",
+      "invoice": "2026-12",
+      "card": "Personnalité Black",
+      "description": "Extorno GOL - Lisi (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "",
+      "value": 0.12
     }
   ],
   "operators": [
