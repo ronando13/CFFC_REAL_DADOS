@@ -14,7 +14,7 @@
     {
       "id": "acc-1795143180457",
       "name": "C6 Bank",
-      "balance": 29.9
+      "balance": 10
     },
     {
       "id": "acc-1795309037224",
@@ -254,11 +254,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:57:20.454Z"
+      "at": "2026-11-22T00:58:20.452Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:57:20.454Z"
+      "at": "2026-11-22T00:58:20.452Z"
     }
   },
   "cflAuto": {
@@ -347,19 +347,7 @@
     }
   ],
   "cfl": [],
-  "contasEntries": [
-    {
-      "id": "ct-1795179856907-k9d1",
-      "date": "2026-11-17",
-      "account": "C6 Bank",
-      "description": "IPTV",
-      "category": "Moradia",
-      "subcategory": "",
-      "status": "PAGO",
-      "value": 19.9,
-      "origin": "CFL valor fixo"
-    }
-  ],
+  "contasEntries": [],
   "ccred": [
     {
       "code": "CC-016",
