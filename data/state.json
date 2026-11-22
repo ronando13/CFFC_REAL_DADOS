@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:13:19.040Z"
+      "at": "2026-11-22T00:13:49.044Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:13:19.040Z"
+      "at": "2026-11-22T00:13:49.044Z"
     }
   },
   "cflAuto": {
@@ -1664,18 +1664,6 @@
       "status": "ABERTO",
       "buyer": "Júnior",
       "value": -51.98
-    },
-    {
-      "code": "CC-126",
-      "date": "2027-10-13",
-      "purchaseDate": "2026-11-13",
-      "invoice": "2027-11",
-      "card": "Personnalité Black",
-      "description": "Beta - Redemacbomagg (12/12) Redemac Torres Beta (12/12)",
-      "installment": "12/12",
-      "status": "ABERTO",
-      "buyer": "Beta",
-      "value": -468.31
     }
   ],
   "operators": [
