@@ -249,11 +249,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:48:20.468Z"
+      "at": "2026-11-22T00:48:50.446Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:48:20.468Z"
+      "at": "2026-11-22T00:48:50.446Z"
     }
   },
   "cflAuto": {
@@ -2584,6 +2584,114 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -89.95
+    },
+    {
+      "code": "CC-203",
+      "date": "2026-11-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Radan (2/10) - Lisi (2/10)",
+      "installment": "2/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -70.56
+    },
+    {
+      "code": "CC-204",
+      "date": "2026-12-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2027-01",
+      "card": "Santander Unique",
+      "description": "Radan (2/10) - Lisi (3/10)",
+      "installment": "3/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -70.56
+    },
+    {
+      "code": "CC-205",
+      "date": "2027-01-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2027-02",
+      "card": "Santander Unique",
+      "description": "Radan (2/10) - Lisi (4/10)",
+      "installment": "4/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -70.56
+    },
+    {
+      "code": "CC-206",
+      "date": "2027-02-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2027-03",
+      "card": "Santander Unique",
+      "description": "Radan (2/10) - Lisi (5/10)",
+      "installment": "5/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -70.56
+    },
+    {
+      "code": "CC-207",
+      "date": "2027-03-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2027-04",
+      "card": "Santander Unique",
+      "description": "Radan (2/10) - Lisi (6/10)",
+      "installment": "6/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -70.56
+    },
+    {
+      "code": "CC-208",
+      "date": "2027-04-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2027-05",
+      "card": "Santander Unique",
+      "description": "Radan (2/10) - Lisi (7/10)",
+      "installment": "7/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -70.56
+    },
+    {
+      "code": "CC-209",
+      "date": "2027-05-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2027-06",
+      "card": "Santander Unique",
+      "description": "Radan (2/10) - Lisi (8/10)",
+      "installment": "8/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -70.56
+    },
+    {
+      "code": "CC-210",
+      "date": "2027-06-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2027-07",
+      "card": "Santander Unique",
+      "description": "Radan (2/10) - Lisi (9/10)",
+      "installment": "9/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -70.56
+    },
+    {
+      "code": "CC-211",
+      "date": "2027-07-09",
+      "purchaseDate": "2026-10-09",
+      "invoice": "2027-08",
+      "card": "Santander Unique",
+      "description": "Radan (2/10) - Lisi (10/10)",
+      "installment": "10/10",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -70.56
     }
   ],
   "operators": [
