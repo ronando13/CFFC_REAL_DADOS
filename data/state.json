@@ -293,11 +293,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T02:11:41.745Z"
+      "at": "2026-11-22T02:13:11.755Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T02:11:41.745Z"
+      "at": "2026-11-22T02:13:11.755Z"
     }
   },
   "cflAuto": {
@@ -454,6 +454,16 @@
       "subcategory": "Ana Lúcia",
       "recurrence": "Único",
       "value": 71.99
+    },
+    {
+      "code": "CFL-004",
+      "date": "2026-12-05",
+      "description": "Beta - Reembolso Cartão dia 5",
+      "account": "Personnalité",
+      "category": "Reembolso",
+      "subcategory": "Beta",
+      "recurrence": "Único",
+      "value": 12153.33
     }
   ],
   "contasEntries": [
