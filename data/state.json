@@ -4,7 +4,7 @@
     {
       "id": "acc-1795143160146",
       "name": "Carteira",
-      "balance": 500
+      "balance": 750
     },
     {
       "id": "acc-1795143168229",
@@ -276,11 +276,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T02:03:11.760Z"
+      "at": "2026-11-22T02:03:41.752Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T02:03:11.760Z"
+      "at": "2026-11-22T02:03:41.752Z"
     }
   },
   "cflAuto": {
@@ -387,7 +387,18 @@
     }
   ],
   "cfl": [],
-  "contasEntries": [],
+  "contasEntries": [
+    {
+      "id": "ct-1795313024252",
+      "date": "2026-11-19",
+      "account": "Carteira",
+      "description": "Lisi - Dinheiro para viagem Ouro Preto",
+      "category": "Saque",
+      "subcategory": "",
+      "status": "PAGO",
+      "value": 250
+    }
+  ],
   "ccred": [
     {
       "code": "CC-016",
