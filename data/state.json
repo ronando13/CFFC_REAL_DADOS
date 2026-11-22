@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:15:19.054Z"
+      "at": "2026-11-22T00:15:49.042Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:15:19.054Z"
+      "at": "2026-11-22T00:15:49.042Z"
     }
   },
   "cflAuto": {
@@ -1664,6 +1664,114 @@
       "status": "ABERTO",
       "buyer": "Júnior",
       "value": -51.98
+    },
+    {
+      "code": "CC-126",
+      "date": "2026-11-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2026-12",
+      "card": "Personnalité Black",
+      "description": "Beta - Maq Léo (4/12) Compra da VAN Beta (4/12)",
+      "installment": "4/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.74
+    },
+    {
+      "code": "CC-127",
+      "date": "2026-12-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-01",
+      "card": "Personnalité Black",
+      "description": "Beta - Maq Léo (4/12) Compra da VAN Beta (5/12)",
+      "installment": "5/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.74
+    },
+    {
+      "code": "CC-128",
+      "date": "2027-01-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-02",
+      "card": "Personnalité Black",
+      "description": "Beta - Maq Léo (4/12) Compra da VAN Beta (6/12)",
+      "installment": "6/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.74
+    },
+    {
+      "code": "CC-129",
+      "date": "2027-02-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-03",
+      "card": "Personnalité Black",
+      "description": "Beta - Maq Léo (4/12) Compra da VAN Beta (7/12)",
+      "installment": "7/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.74
+    },
+    {
+      "code": "CC-130",
+      "date": "2027-03-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-04",
+      "card": "Personnalité Black",
+      "description": "Beta - Maq Léo (4/12) Compra da VAN Beta (8/12)",
+      "installment": "8/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.74
+    },
+    {
+      "code": "CC-131",
+      "date": "2027-04-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-05",
+      "card": "Personnalité Black",
+      "description": "Beta - Maq Léo (4/12) Compra da VAN Beta (9/12)",
+      "installment": "9/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.74
+    },
+    {
+      "code": "CC-132",
+      "date": "2027-05-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-06",
+      "card": "Personnalité Black",
+      "description": "Beta - Maq Léo (4/12) Compra da VAN Beta (10/12)",
+      "installment": "10/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.74
+    },
+    {
+      "code": "CC-133",
+      "date": "2027-06-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-07",
+      "card": "Personnalité Black",
+      "description": "Beta - Maq Léo (4/12) Compra da VAN Beta (11/12)",
+      "installment": "11/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.74
+    },
+    {
+      "code": "CC-134",
+      "date": "2027-07-27",
+      "purchaseDate": "2026-08-27",
+      "invoice": "2027-08",
+      "card": "Personnalité Black",
+      "description": "Beta - Maq Léo (4/12) Compra da VAN Beta (12/12)",
+      "installment": "12/12",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -1541.74
     }
   ],
   "operators": [
