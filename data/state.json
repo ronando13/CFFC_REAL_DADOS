@@ -14,7 +14,7 @@
     {
       "id": "acc-1795143180457",
       "name": "C6 Bank",
-      "balance": -8174.71
+      "balance": 10
     },
     {
       "id": "acc-1795309037224",
@@ -335,11 +335,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T03:22:21.664Z"
+      "at": "2026-11-22T03:22:51.661Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T03:22:21.664Z"
+      "at": "2026-11-22T03:22:51.661Z"
     }
   },
   "cflAuto": {
@@ -583,6 +583,16 @@
       "subcategory": "",
       "status": "PAGO",
       "value": 4632.69
+    },
+    {
+      "id": "ct-1795317785308",
+      "date": "2026-11-22",
+      "account": "C6 Bank",
+      "description": "Ajuste",
+      "category": "Reembolso",
+      "subcategory": "",
+      "status": "PAGO",
+      "value": 8184.71
     }
   ],
   "reimbursements": [],
