@@ -249,11 +249,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:51:50.454Z"
+      "at": "2026-11-22T00:52:20.453Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:51:50.454Z"
+      "at": "2026-11-22T00:52:20.453Z"
     }
   },
   "cflAuto": {
@@ -2860,6 +2860,18 @@
       "status": "ABERTO",
       "buyer": "Júnior",
       "value": -547.87
+    },
+    {
+      "code": "CC-226",
+      "date": "2026-11-17",
+      "purchaseDate": "2026-11-17",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Latam air*0000 Bruna Tarifas Embarque Lisi (1/1)",
+      "installment": "1/1",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -406.12
     }
   ],
   "operators": [
