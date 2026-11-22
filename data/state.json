@@ -249,11 +249,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:50:50.453Z"
+      "at": "2026-11-22T00:51:20.458Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:50:50.453Z"
+      "at": "2026-11-22T00:51:20.458Z"
     }
   },
   "cflAuto": {
@@ -2776,6 +2776,66 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -136.94
+    },
+    {
+      "code": "CC-219",
+      "date": "2026-11-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Lojas Riachuelo (1/5) - Lisi (1/5)",
+      "installment": "1/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -68.02
+    },
+    {
+      "code": "CC-220",
+      "date": "2026-12-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2027-01",
+      "card": "Santander Unique",
+      "description": "Lojas Riachuelo (1/5) - Lisi (2/5)",
+      "installment": "2/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -68.02
+    },
+    {
+      "code": "CC-221",
+      "date": "2027-01-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2027-02",
+      "card": "Santander Unique",
+      "description": "Lojas Riachuelo (1/5) - Lisi (3/5)",
+      "installment": "3/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -68.02
+    },
+    {
+      "code": "CC-222",
+      "date": "2027-02-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2027-03",
+      "card": "Santander Unique",
+      "description": "Lojas Riachuelo (1/5) - Lisi (4/5)",
+      "installment": "4/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -68.02
+    },
+    {
+      "code": "CC-223",
+      "date": "2027-03-13",
+      "purchaseDate": "2026-11-13",
+      "invoice": "2027-04",
+      "card": "Santander Unique",
+      "description": "Lojas Riachuelo (1/5) - Lisi (5/5)",
+      "installment": "5/5",
+      "status": "ABERTO",
+      "buyer": "Lisi",
+      "value": -68.02
     }
   ],
   "operators": [
