@@ -241,11 +241,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:35:20.456Z"
+      "at": "2026-11-22T00:36:20.451Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:35:20.456Z"
+      "at": "2026-11-22T00:36:20.451Z"
     }
   },
   "cflAuto": {
@@ -1880,6 +1880,54 @@
       "status": "ABERTO",
       "buyer": "Beta",
       "value": -468.31
+    },
+    {
+      "code": "CC-145",
+      "date": "2026-11-28",
+      "purchaseDate": "2026-05-28",
+      "invoice": "2026-12",
+      "card": "Personnalité Infinite",
+      "description": "Beta - Maq Léo (7/10) Maquina DQual 44k Beta (7/10)",
+      "installment": "7/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -4400
+    },
+    {
+      "code": "CC-146",
+      "date": "2026-12-28",
+      "purchaseDate": "2026-05-28",
+      "invoice": "2027-01",
+      "card": "Personnalité Infinite",
+      "description": "Beta - Maq Léo (7/10) Maquina DQual 44k Beta (8/10)",
+      "installment": "8/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -4400
+    },
+    {
+      "code": "CC-147",
+      "date": "2027-01-28",
+      "purchaseDate": "2026-05-28",
+      "invoice": "2027-02",
+      "card": "Personnalité Infinite",
+      "description": "Beta - Maq Léo (7/10) Maquina DQual 44k Beta (9/10)",
+      "installment": "9/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -4400
+    },
+    {
+      "code": "CC-148",
+      "date": "2027-02-28",
+      "purchaseDate": "2026-05-28",
+      "invoice": "2027-03",
+      "card": "Personnalité Infinite",
+      "description": "Beta - Maq Léo (7/10) Maquina DQual 44k Beta (10/10)",
+      "installment": "10/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -4400
     }
   ],
   "operators": [
