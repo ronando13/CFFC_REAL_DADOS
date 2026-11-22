@@ -293,11 +293,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T02:09:11.748Z"
+      "at": "2026-11-22T02:09:41.750Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T02:09:11.748Z"
+      "at": "2026-11-22T02:09:41.750Z"
     }
   },
   "cflAuto": {
@@ -424,7 +424,18 @@
       "value": -300
     }
   ],
-  "cfl": [],
+  "cfl": [
+    {
+      "code": "CFL-001",
+      "date": "2026-11-23",
+      "description": "Beta - Reembolso Nomad",
+      "account": "Personnalité",
+      "category": "Reembolso",
+      "subcategory": "Beta",
+      "recurrence": "Único",
+      "value": 625
+    }
+  ],
   "contasEntries": [
     {
       "id": "ct-1795313070364",
