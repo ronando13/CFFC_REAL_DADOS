@@ -249,11 +249,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-22T00:43:20.453Z"
+      "at": "2026-11-22T00:44:20.465Z"
     },
     "EUR": {
       "v": 6.5172,
-      "at": "2026-11-22T00:43:20.453Z"
+      "at": "2026-11-22T00:44:20.465Z"
     }
   },
   "cflAuto": {
@@ -2224,6 +2224,66 @@
       "status": "ABERTO",
       "buyer": "Lisi",
       "value": -197.49
+    },
+    {
+      "code": "CC-173",
+      "date": "2026-11-16",
+      "purchaseDate": "2026-06-16",
+      "invoice": "2026-12",
+      "card": "Santander Unique",
+      "description": "Beta - CDV Serra sul (6/10) Caixa Jetta Beta (6/10)",
+      "installment": "6/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -830
+    },
+    {
+      "code": "CC-174",
+      "date": "2026-12-16",
+      "purchaseDate": "2026-06-16",
+      "invoice": "2027-01",
+      "card": "Santander Unique",
+      "description": "Beta - CDV Serra sul (6/10) Caixa Jetta Beta (7/10)",
+      "installment": "7/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -830
+    },
+    {
+      "code": "CC-175",
+      "date": "2027-01-16",
+      "purchaseDate": "2026-06-16",
+      "invoice": "2027-02",
+      "card": "Santander Unique",
+      "description": "Beta - CDV Serra sul (6/10) Caixa Jetta Beta (8/10)",
+      "installment": "8/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -830
+    },
+    {
+      "code": "CC-176",
+      "date": "2027-02-16",
+      "purchaseDate": "2026-06-16",
+      "invoice": "2027-03",
+      "card": "Santander Unique",
+      "description": "Beta - CDV Serra sul (6/10) Caixa Jetta Beta (9/10)",
+      "installment": "9/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -830
+    },
+    {
+      "code": "CC-177",
+      "date": "2027-03-16",
+      "purchaseDate": "2026-06-16",
+      "invoice": "2027-04",
+      "card": "Santander Unique",
+      "description": "Beta - CDV Serra sul (6/10) Caixa Jetta Beta (10/10)",
+      "installment": "10/10",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "value": -830
     }
   ],
   "operators": [
