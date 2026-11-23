@@ -14,7 +14,7 @@
     {
       "id": "acc-1795143180457",
       "name": "C6 Bank",
-      "balance": 10
+      "balance": 6.75
     },
     {
       "id": "acc-1795309037224",
@@ -649,6 +649,16 @@
       "subcategory": "Ronando",
       "status": "PAGO",
       "value": -10
+    },
+    {
+      "id": "ct-1795394498026",
+      "date": "2026-11-22",
+      "account": "C6 Bank",
+      "description": "Pedágio",
+      "category": "Transporte",
+      "subcategory": "Pedágio",
+      "status": "PAGO",
+      "value": -3.25
     }
   ],
   "reimbursements": [],
