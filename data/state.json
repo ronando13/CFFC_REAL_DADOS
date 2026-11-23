@@ -1,5 +1,5 @@
 {
-  "activeTab": "configuracoes",
+  "activeTab": "contas",
   "accounts": [
     {
       "id": "acc-1795143160146",
@@ -349,11 +349,11 @@
   "fxLast": {
     "USD": {
       "v": 5.9488,
-      "at": "2026-11-23T00:40:51.382Z"
+      "at": "2026-11-23T00:41:21.384Z"
     },
     "EUR": {
       "v": 6.4874,
-      "at": "2026-11-23T00:40:51.382Z"
+      "at": "2026-11-23T00:41:21.384Z"
     }
   },
   "cflAuto": {
@@ -475,6 +475,11 @@
       "id": "sub-1795354274994-cke",
       "category": "Investimentos",
       "name": "Resgate"
+    },
+    {
+      "id": "sub-1795394488244",
+      "category": "Transporte",
+      "name": "Pedágio"
     }
   ],
   "fixedValues": [
