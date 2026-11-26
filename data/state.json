@@ -27,7 +27,8 @@
     "Explorer",
     "Personnalité Infinite",
     "Personnalité Black",
-    "Unique"
+    "Unique",
+    "Cobrança Diversa"
   ],
   "cardConfig": {
     "Carbon": {
@@ -41,7 +42,7 @@
       "bank": "C6",
       "gradient": "from-zinc-950 via-neutral-900 to-black",
       "accentColor": "border-zinc-700",
-      "modifiedAt": 1795197032628,
+      "modifiedAt": 1795469860248,
       "invoiceChecks": {
         "2026-12": {
           "v": 7994.76,
@@ -51,16 +52,16 @@
     },
     "Explorer": {
       "closingDay": 18,
-      "dueDay": 20,
+      "dueDay": 25,
       "configured": true,
       "limit": 14500,
       "brand": "Visa",
       "externalId": "card_1792677792222",
       "holder": "Ronando M Flores",
-      "bank": "Nomad",
+      "bank": "NOMAD",
       "gradient": "from-amber-950 via-stone-900 to-zinc-950",
       "accentColor": "border-amber-700/60",
-      "modifiedAt": 1794877025534,
+      "modifiedAt": 1795650824246,
       "invoiceChecks": {
         "2026-11": {
           "v": 2055.39,
@@ -79,7 +80,7 @@
       "bank": "ITAU",
       "gradient": "from-blue-950 via-slate-900 to-zinc-950",
       "accentColor": "border-blue-700/60",
-      "modifiedAt": 1795196341754,
+      "modifiedAt": 1795469860248,
       "invoiceChecks": {
         "2026-12": {
           "v": 7009.61,
@@ -98,7 +99,7 @@
       "bank": "ITAU",
       "gradient": "from-stone-950 via-neutral-900 to-black",
       "accentColor": "border-amber-800/60",
-      "modifiedAt": 1795196377283,
+      "modifiedAt": 1795469860248,
       "invoiceChecks": {
         "2026-12": {
           "v": 2619.94,
@@ -108,22 +109,35 @@
     },
     "Unique": {
       "closingDay": 29,
-      "dueDay": 5,
+      "dueDay": 6,
       "configured": true,
       "limit": 35190,
       "brand": "Visa",
       "externalId": "card_1792796501153",
       "holder": "Ronando M Flores",
-      "bank": "Santander",
+      "bank": "SANTANDER",
       "gradient": "from-red-950 via-zinc-900 to-black",
       "accentColor": "border-red-700/60",
-      "modifiedAt": 1795196669865,
+      "modifiedAt": 1795650814964,
       "invoiceChecks": {
         "2026-12": {
           "v": 6635.44,
           "at": "2026-11-20T17:44:29.691Z"
         }
       }
+    },
+    "Cobrança Diversa": {
+      "closingDay": 4,
+      "dueDay": 5,
+      "configured": true,
+      "limit": 51,
+      "brand": "Visa",
+      "externalId": "card_mwwt6wipn1zvw",
+      "holder": "ronando",
+      "bank": "OUTRO",
+      "gradient": "from-rose-700 via-pink-600 to-fuchsia-700",
+      "accentColor": "border-rose-400",
+      "modifiedAt": 1795652794422
     }
   },
   "payDeadlines": {
@@ -379,11 +393,11 @@
   "fxLast": {
     "USD": {
       "v": 5.821,
-      "at": "2026-11-26T00:40:01.956Z"
+      "at": "2026-11-26T00:43:04.578Z"
     },
     "EUR": {
       "v": 6.3864,
-      "at": "2026-11-26T00:40:01.956Z"
+      "at": "2026-11-26T00:43:04.578Z"
     }
   },
   "cflAuto": {
@@ -857,7 +871,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915612866,
+      "modifiedAt": 1795469860248,
       "value": -1541.74
     },
     {
@@ -879,7 +893,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.74
     },
     {
@@ -901,7 +915,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.74
     },
     {
@@ -923,7 +937,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.74
     },
     {
@@ -945,7 +959,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.74
     },
     {
@@ -967,7 +981,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.74
     },
     {
@@ -989,7 +1003,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.74
     },
     {
@@ -1011,7 +1025,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.74
     },
     {
@@ -1033,7 +1047,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.74
     },
     {
@@ -1055,7 +1069,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.74
     },
     {
@@ -1077,7 +1091,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915612866,
+      "modifiedAt": 1795469860248,
       "value": -468.31
     },
     {
@@ -1099,7 +1113,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132200251,
+      "modifiedAt": 1795469860248,
       "value": -468.31
     },
     {
@@ -1121,7 +1135,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915612866,
+      "modifiedAt": 1795469860248,
       "value": -1360.95
     },
     {
@@ -1143,7 +1157,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -5.4
     },
     {
@@ -1165,7 +1179,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -568.6
     },
     {
@@ -1187,7 +1201,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -568.6
     },
     {
@@ -1209,7 +1223,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -568.6
     },
     {
@@ -1231,7 +1245,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -568.6
     },
     {
@@ -1253,7 +1267,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -568.6
     },
     {
@@ -1275,7 +1289,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -197.2
     },
     {
@@ -1297,7 +1311,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -19.9
     },
     {
@@ -1319,7 +1333,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -36.42
     },
     {
@@ -1341,7 +1355,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -49.24
     },
     {
@@ -1363,7 +1377,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -18
     },
     {
@@ -1385,7 +1399,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -197.49
     },
     {
@@ -1407,7 +1421,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -197.49
     },
     {
@@ -1429,7 +1443,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -197.49
     },
     {
@@ -1451,7 +1465,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -197.49
     },
     {
@@ -1473,7 +1487,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -50
     },
     {
@@ -1495,7 +1509,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -50
     },
     {
@@ -1517,7 +1531,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -398.7
     },
     {
@@ -1539,7 +1553,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -398.7
     },
     {
@@ -1561,7 +1575,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -398.7
     },
     {
@@ -1583,7 +1597,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -398.7
     },
     {
@@ -1605,7 +1619,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -398.7
     },
     {
@@ -1627,7 +1641,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -398.7
     },
     {
@@ -1649,7 +1663,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -250.47
     },
     {
@@ -1671,7 +1685,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -605.04
     },
     {
@@ -1693,7 +1707,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -605.04
     },
     {
@@ -1715,7 +1729,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -605.04
     },
     {
@@ -1737,7 +1751,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -605.04
     },
     {
@@ -1759,7 +1773,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -605.04
     },
     {
@@ -1781,7 +1795,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -197.2
     },
     {
@@ -1803,7 +1817,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -275.01
     },
     {
@@ -1825,7 +1839,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -275.01
     },
     {
@@ -1847,7 +1861,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -275.01
     },
     {
@@ -1869,7 +1883,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915612866,
+      "modifiedAt": 1795469860248,
       "value": -1083.37
     },
     {
@@ -1891,7 +1905,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1083.37
     },
     {
@@ -1913,7 +1927,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1083.37
     },
     {
@@ -1935,7 +1949,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1083.37
     },
     {
@@ -1957,7 +1971,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1083.37
     },
     {
@@ -1979,7 +1993,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1083.37
     },
     {
@@ -2001,7 +2015,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1083.37
     },
     {
@@ -2023,7 +2037,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1083.37
     },
     {
@@ -2045,7 +2059,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1083.37
     },
     {
@@ -2067,7 +2081,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1083.37
     },
     {
@@ -2089,7 +2103,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -192.25
     },
     {
@@ -2111,7 +2125,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915612866,
+      "modifiedAt": 1795469860248,
       "value": -4400
     },
     {
@@ -2133,7 +2147,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132156492,
+      "modifiedAt": 1795469860248,
       "value": -4400
     },
     {
@@ -2155,7 +2169,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132156492,
+      "modifiedAt": 1795469860248,
       "value": -4400
     },
     {
@@ -2177,7 +2191,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132156492,
+      "modifiedAt": 1795469860248,
       "value": -4400
     },
     {
@@ -2199,7 +2213,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132156492,
+      "modifiedAt": 1795469860248,
       "value": -4400
     },
     {
@@ -2221,7 +2235,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": 0.06
     },
     {
@@ -2243,7 +2257,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -1541.66
     },
     {
@@ -2265,7 +2279,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.66
     },
     {
@@ -2287,7 +2301,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.66
     },
     {
@@ -2309,7 +2323,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.66
     },
     {
@@ -2331,7 +2345,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.66
     },
     {
@@ -2353,7 +2367,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.66
     },
     {
@@ -2375,7 +2389,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.66
     },
     {
@@ -2397,7 +2411,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.66
     },
     {
@@ -2419,7 +2433,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.66
     },
     {
@@ -2441,7 +2455,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -1541.66
     },
     {
@@ -2463,7 +2477,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -120
     },
     {
@@ -2485,7 +2499,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -120
     },
     {
@@ -2507,7 +2521,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -120
     },
     {
@@ -2529,7 +2543,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -120
     },
     {
@@ -2551,7 +2565,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -120
     },
     {
@@ -2573,7 +2587,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -120
     },
     {
@@ -2595,7 +2609,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -543.6
     },
     {
@@ -2617,7 +2631,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132119788,
+      "modifiedAt": 1795469860248,
       "value": -543.6
     },
     {
@@ -2639,7 +2653,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132119788,
+      "modifiedAt": 1795469860248,
       "value": -543.6
     },
     {
@@ -2661,7 +2675,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132119788,
+      "modifiedAt": 1795469860248,
       "value": -543.6
     },
     {
@@ -2683,7 +2697,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132119788,
+      "modifiedAt": 1795469860248,
       "value": -543.6
     },
     {
@@ -2705,7 +2719,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132119788,
+      "modifiedAt": 1795469860248,
       "value": -543.6
     },
     {
@@ -2727,7 +2741,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -830
     },
     {
@@ -2749,7 +2763,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132139621,
+      "modifiedAt": 1795469860248,
       "value": -830
     },
     {
@@ -2771,7 +2785,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132139621,
+      "modifiedAt": 1795469860248,
       "value": -830
     },
     {
@@ -2793,7 +2807,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132139621,
+      "modifiedAt": 1795469860248,
       "value": -830
     },
     {
@@ -2815,7 +2829,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132139621,
+      "modifiedAt": 1795469860248,
       "value": -830
     },
     {
@@ -2837,7 +2851,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132139621,
+      "modifiedAt": 1795469860248,
       "value": -830
     },
     {
@@ -2859,7 +2873,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -36.5
     },
     {
@@ -2881,7 +2895,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -36.5
     },
     {
@@ -2903,7 +2917,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -36.5
     },
     {
@@ -2925,7 +2939,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -36.5
     },
     {
@@ -2947,7 +2961,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -36.5
     },
     {
@@ -2969,7 +2983,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -7.98
     },
     {
@@ -2991,7 +3005,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -50
     },
     {
@@ -3013,7 +3027,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -70.56
     },
     {
@@ -3035,7 +3049,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -70.56
     },
     {
@@ -3057,7 +3071,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -70.56
     },
     {
@@ -3079,7 +3093,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -70.56
     },
     {
@@ -3101,7 +3115,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -70.56
     },
     {
@@ -3123,7 +3137,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -70.56
     },
     {
@@ -3145,7 +3159,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -70.56
     },
     {
@@ -3167,7 +3181,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -70.56
     },
     {
@@ -3189,7 +3203,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -70.56
     },
     {
@@ -3211,7 +3225,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -70.56
     },
     {
@@ -3233,7 +3247,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -103.94
     },
     {
@@ -3255,7 +3269,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -103.94
     },
     {
@@ -3277,7 +3291,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -103.94
     },
     {
@@ -3299,7 +3313,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -103.94
     },
     {
@@ -3321,7 +3335,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -103.94
     },
     {
@@ -3343,7 +3357,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -82.55
     },
     {
@@ -3365,7 +3379,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -130
     },
     {
@@ -3387,7 +3401,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -169.9
     },
     {
@@ -3409,7 +3423,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -239.95
     },
     {
@@ -3431,7 +3445,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -440
     },
     {
@@ -3453,7 +3467,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -89.95
     },
     {
@@ -3475,7 +3489,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -89.95
     },
     {
@@ -3497,7 +3511,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -29.5
     },
     {
@@ -3519,7 +3533,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794106803257,
+      "modifiedAt": 1795469860248,
       "value": -146.6
     },
     {
@@ -3541,7 +3555,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -146.6
     },
     {
@@ -3563,7 +3577,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795197177516,
+      "modifiedAt": 1795469860248,
       "value": -31.96
     },
     {
@@ -3585,7 +3599,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795197188941,
+      "modifiedAt": 1795469860248,
       "value": -21.96
     },
     {
@@ -3607,7 +3621,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795197193447,
+      "modifiedAt": 1795469860248,
       "value": -3.04
     },
     {
@@ -3629,7 +3643,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795197197988,
+      "modifiedAt": 1795469860248,
       "value": -23.94
     },
     {
@@ -3651,7 +3665,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795197202316,
+      "modifiedAt": 1795469860248,
       "value": -9.5
     },
     {
@@ -3673,7 +3687,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795197206952,
+      "modifiedAt": 1795469860248,
       "value": -132
     },
     {
@@ -3695,7 +3709,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795197211918,
+      "modifiedAt": 1795469860248,
       "value": -26.91
     },
     {
@@ -3717,7 +3731,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -29.9
     },
     {
@@ -3739,7 +3753,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": true,
-      "modifiedAt": 1795197219050,
+      "modifiedAt": 1795469860248,
       "value": -99.99
     },
     {
@@ -3761,7 +3775,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -63.94
     },
     {
@@ -3783,7 +3797,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -72.95
     },
     {
@@ -3805,7 +3819,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -130.9
     },
     {
@@ -3827,7 +3841,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -189
     },
     {
@@ -3849,7 +3863,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -41.16
     },
     {
@@ -3871,7 +3885,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -77.67
     },
     {
@@ -3893,7 +3907,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -50
     },
     {
@@ -3915,7 +3929,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -331.16
     },
     {
@@ -3937,7 +3951,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -70
     },
     {
@@ -3959,7 +3973,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -203.5
     },
     {
@@ -3981,7 +3995,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -56.75
     },
     {
@@ -4003,7 +4017,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -8.8
     },
     {
@@ -4025,7 +4039,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -24.06
     },
     {
@@ -4047,7 +4061,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -110
     },
     {
@@ -4069,7 +4083,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -64.18
     },
     {
@@ -4091,7 +4105,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -255.36
     },
     {
@@ -4113,7 +4127,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -44.9
     },
     {
@@ -4135,7 +4149,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -82.93
     },
     {
@@ -4157,7 +4171,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795197223821,
+      "modifiedAt": 1795469860248,
       "value": -21.91
     },
     {
@@ -4179,7 +4193,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795197132267,
+      "modifiedAt": 1795469860248,
       "value": -71.99
     },
     {
@@ -4201,7 +4215,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -40.9
     },
     {
@@ -4223,7 +4237,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -24.09
     },
     {
@@ -4245,7 +4259,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -339.99
     },
     {
@@ -4267,7 +4281,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671339994,
+      "modifiedAt": 1795469860248,
       "value": -339.99
     },
     {
@@ -4289,7 +4303,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671339994,
+      "modifiedAt": 1795469860248,
       "value": -339.99
     },
     {
@@ -4311,7 +4325,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671339994,
+      "modifiedAt": 1795469860248,
       "value": -339.99
     },
     {
@@ -4333,7 +4347,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671339994,
+      "modifiedAt": 1795469860248,
       "value": -339.99
     },
     {
@@ -4355,7 +4369,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -9.9
     },
     {
@@ -4377,7 +4391,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -111
     },
     {
@@ -4399,7 +4413,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": true,
-      "modifiedAt": 1794796426716,
+      "modifiedAt": 1795469860248,
       "value": -99.99
     },
     {
@@ -4421,7 +4435,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -40
     },
     {
@@ -4443,7 +4457,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -8.91
     },
     {
@@ -4465,7 +4479,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -65.59
     },
     {
@@ -4487,7 +4501,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -15.94
     },
     {
@@ -4509,7 +4523,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -17.07
     },
     {
@@ -4531,7 +4545,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -320.64
     },
     {
@@ -4553,7 +4567,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -320.64
     },
     {
@@ -4575,7 +4589,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -320.64
     },
     {
@@ -4597,7 +4611,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -320.64
     },
     {
@@ -4619,7 +4633,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -320.64
     },
     {
@@ -4641,7 +4655,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -145.95
     },
     {
@@ -4663,7 +4677,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -145.95
     },
     {
@@ -4685,7 +4699,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -353.72
     },
     {
@@ -4707,7 +4721,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145165079,
+      "modifiedAt": 1795469860248,
       "value": -353.72
     },
     {
@@ -4729,7 +4743,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145165079,
+      "modifiedAt": 1795469860248,
       "value": -353.72
     },
     {
@@ -4751,7 +4765,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145165079,
+      "modifiedAt": 1795469860248,
       "value": -353.72
     },
     {
@@ -4773,7 +4787,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145165079,
+      "modifiedAt": 1795469860248,
       "value": -353.72
     },
     {
@@ -4795,7 +4809,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -100
     },
     {
@@ -4817,7 +4831,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -100
     },
     {
@@ -4839,7 +4853,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -100
     },
     {
@@ -4861,7 +4875,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -13.9
     },
     {
@@ -4883,7 +4897,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145217286,
+      "modifiedAt": 1795469860248,
       "value": -13.9
     },
     {
@@ -4905,7 +4919,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145217286,
+      "modifiedAt": 1795469860248,
       "value": -13.9
     },
     {
@@ -4927,7 +4941,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145217286,
+      "modifiedAt": 1795469860248,
       "value": -13.9
     },
     {
@@ -4949,7 +4963,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145217286,
+      "modifiedAt": 1795469860248,
       "value": -13.9
     },
     {
@@ -4971,7 +4985,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145217286,
+      "modifiedAt": 1795469860248,
       "value": -13.9
     },
     {
@@ -4993,7 +5007,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145217286,
+      "modifiedAt": 1795469860248,
       "value": -13.9
     },
     {
@@ -5015,7 +5029,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145217286,
+      "modifiedAt": 1795469860248,
       "value": -13.9
     },
     {
@@ -5037,7 +5051,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145217286,
+      "modifiedAt": 1795469860248,
       "value": -13.9
     },
     {
@@ -5059,7 +5073,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145217286,
+      "modifiedAt": 1795469860248,
       "value": -13.9
     },
     {
@@ -5081,7 +5095,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793145217286,
+      "modifiedAt": 1795469860248,
       "value": -13.9
     },
     {
@@ -5103,7 +5117,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -199.98
     },
     {
@@ -5125,7 +5139,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -233.33
     },
     {
@@ -5147,7 +5161,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -544.66
     },
     {
@@ -5169,7 +5183,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -770.98
     },
     {
@@ -5191,7 +5205,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 0,
+      "modifiedAt": 1795469860248,
       "value": -770.98
     },
     {
@@ -5213,7 +5227,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -374.77
     },
     {
@@ -5235,7 +5249,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915612866,
+      "modifiedAt": 1795469860248,
       "value": -157.49
     },
     {
@@ -5257,7 +5271,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132147357,
+      "modifiedAt": 1795469860248,
       "value": -157.49
     },
     {
@@ -5279,7 +5293,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132147357,
+      "modifiedAt": 1795469860248,
       "value": -157.49
     },
     {
@@ -5301,7 +5315,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132147357,
+      "modifiedAt": 1795469860248,
       "value": -157.49
     },
     {
@@ -5323,7 +5337,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915612866,
+      "modifiedAt": 1795469860248,
       "value": -1461.66
     },
     {
@@ -5345,7 +5359,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793132182972,
+      "modifiedAt": 1795469860248,
       "value": -1461.66
     },
     {
@@ -5367,7 +5381,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915612866,
+      "modifiedAt": 1795469860248,
       "value": -211.35
     },
     {
@@ -5389,7 +5403,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795197161346,
+      "modifiedAt": 1795469860248,
       "value": -21.94
     },
     {
@@ -5411,7 +5425,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795197171483,
+      "modifiedAt": 1795469860248,
       "value": -28.95
     },
     {
@@ -5433,7 +5447,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793912248887,
+      "modifiedAt": 1795469860248,
       "value": -111.69
     },
     {
@@ -5455,7 +5469,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795197183654,
+      "modifiedAt": 1795469860248,
       "value": -9.93
     },
     {
@@ -5477,7 +5491,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -29.9
     },
     {
@@ -5499,7 +5513,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": -5.3
     },
     {
@@ -5521,7 +5535,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": 0.16
     },
     {
@@ -5543,7 +5557,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793915692427,
+      "modifiedAt": 1795469860248,
       "value": 0.2
     },
     {
@@ -5697,7 +5711,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793468652626,
+      "modifiedAt": 1795469860248,
       "value": -330
     },
     {
@@ -5719,7 +5733,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793468652626,
+      "modifiedAt": 1795469860248,
       "value": -330
     },
     {
@@ -5741,7 +5755,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793468652626,
+      "modifiedAt": 1795469860248,
       "value": -330
     },
     {
@@ -5763,7 +5777,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793468652626,
+      "modifiedAt": 1795469860248,
       "value": -330
     },
     {
@@ -5785,7 +5799,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793468652626,
+      "modifiedAt": 1795469860248,
       "value": -330
     },
     {
@@ -5807,7 +5821,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793468652626,
+      "modifiedAt": 1795469860248,
       "value": -330
     },
     {
@@ -5829,7 +5843,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793468652626,
+      "modifiedAt": 1795469860248,
       "value": -330
     },
     {
@@ -5851,7 +5865,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793468652626,
+      "modifiedAt": 1795469860248,
       "value": -330
     },
     {
@@ -5873,7 +5887,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793468652626,
+      "modifiedAt": 1795469860248,
       "value": -330
     },
     {
@@ -5895,7 +5909,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793468652626,
+      "modifiedAt": 1795469860248,
       "value": -330
     },
     {
@@ -5917,7 +5931,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671639310,
+      "modifiedAt": 1795469860248,
       "value": -100
     },
     {
@@ -5939,7 +5953,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671639310,
+      "modifiedAt": 1795469860248,
       "value": -100
     },
     {
@@ -5961,7 +5975,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671639310,
+      "modifiedAt": 1795469860248,
       "value": -100
     },
     {
@@ -5983,7 +5997,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671639310,
+      "modifiedAt": 1795469860248,
       "value": -100
     },
     {
@@ -6005,7 +6019,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671639310,
+      "modifiedAt": 1795469860248,
       "value": -100
     },
     {
@@ -6027,7 +6041,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671639310,
+      "modifiedAt": 1795469860248,
       "value": -100
     },
     {
@@ -6049,7 +6063,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671639310,
+      "modifiedAt": 1795469860248,
       "value": -100
     },
     {
@@ -6071,7 +6085,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671296953,
+      "modifiedAt": 1795469860248,
       "value": -237.5
     },
     {
@@ -6093,7 +6107,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671296953,
+      "modifiedAt": 1795469860248,
       "value": -237.5
     },
     {
@@ -6115,7 +6129,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671296953,
+      "modifiedAt": 1795469860248,
       "value": -237.5
     },
     {
@@ -6137,7 +6151,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671296953,
+      "modifiedAt": 1795469860248,
       "value": -237.5
     },
     {
@@ -6159,7 +6173,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671599321,
+      "modifiedAt": 1795469860248,
       "value": -255.49
     },
     {
@@ -6181,7 +6195,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671614639,
+      "modifiedAt": 1795469860248,
       "value": -9.9
     },
     {
@@ -6203,7 +6217,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1793671579943,
+      "modifiedAt": 1795469860248,
       "value": -78.9
     },
     {
@@ -6225,7 +6239,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771171564,
+      "modifiedAt": 1795469860248,
       "value": -175
     },
     {
@@ -6247,7 +6261,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771281603,
+      "modifiedAt": 1795469860248,
       "value": -21
     },
     {
@@ -6269,7 +6283,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771376155,
+      "modifiedAt": 1795469860248,
       "value": -97.5
     },
     {
@@ -6291,7 +6305,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771376155,
+      "modifiedAt": 1795469860248,
       "value": -97.5
     },
     {
@@ -6313,7 +6327,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771376155,
+      "modifiedAt": 1795469860248,
       "value": -97.5
     },
     {
@@ -6335,7 +6349,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771376155,
+      "modifiedAt": 1795469860248,
       "value": -97.5
     },
     {
@@ -6357,7 +6371,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771376155,
+      "modifiedAt": 1795469860248,
       "value": -97.5
     },
     {
@@ -6379,7 +6393,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771376155,
+      "modifiedAt": 1795469860248,
       "value": -97.5
     },
     {
@@ -6401,7 +6415,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771376155,
+      "modifiedAt": 1795469860248,
       "value": -97.5
     },
     {
@@ -6423,7 +6437,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771376155,
+      "modifiedAt": 1795469860248,
       "value": -97.5
     },
     {
@@ -6445,7 +6459,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771449109,
+      "modifiedAt": 1795469860248,
       "value": -98.03
     },
     {
@@ -6467,7 +6481,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771508569,
+      "modifiedAt": 1795469860248,
       "value": -247.37
     },
     {
@@ -6489,7 +6503,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771571001,
+      "modifiedAt": 1795469860248,
       "value": -47.48
     },
     {
@@ -6511,7 +6525,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771571001,
+      "modifiedAt": 1795469860248,
       "value": -47.48
     },
     {
@@ -6533,7 +6547,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771571001,
+      "modifiedAt": 1795469860248,
       "value": -47.48
     },
     {
@@ -6555,7 +6569,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771637543,
+      "modifiedAt": 1795469860248,
       "value": -56.11
     },
     {
@@ -6577,7 +6591,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771637543,
+      "modifiedAt": 1795469860248,
       "value": -56.11
     },
     {
@@ -6599,7 +6613,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771637543,
+      "modifiedAt": 1795469860248,
       "value": -56.11
     },
     {
@@ -6621,7 +6635,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771637543,
+      "modifiedAt": 1795469860248,
       "value": -56.11
     },
     {
@@ -6643,7 +6657,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771637543,
+      "modifiedAt": 1795469860248,
       "value": -56.11
     },
     {
@@ -6665,7 +6679,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771637543,
+      "modifiedAt": 1795469860248,
       "value": -56.11
     },
     {
@@ -6687,7 +6701,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771637543,
+      "modifiedAt": 1795469860248,
       "value": -56.11
     },
     {
@@ -6709,7 +6723,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771637543,
+      "modifiedAt": 1795469860248,
       "value": -56.11
     },
     {
@@ -6731,7 +6745,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771637543,
+      "modifiedAt": 1795469860248,
       "value": -56.11
     },
     {
@@ -6753,7 +6767,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771637543,
+      "modifiedAt": 1795469860248,
       "value": -56.11
     },
     {
@@ -6775,7 +6789,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771746582,
+      "modifiedAt": 1795469860248,
       "value": -10.5
     },
     {
@@ -6797,7 +6811,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771793099,
+      "modifiedAt": 1795469860248,
       "value": -135.99
     },
     {
@@ -6819,7 +6833,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771793099,
+      "modifiedAt": 1795469860248,
       "value": -135.99
     },
     {
@@ -6841,7 +6855,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771838004,
+      "modifiedAt": 1795469860248,
       "value": -99.99
     },
     {
@@ -6863,7 +6877,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771838004,
+      "modifiedAt": 1795469860248,
       "value": -99.99
     },
     {
@@ -6885,7 +6899,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771838004,
+      "modifiedAt": 1795469860248,
       "value": -99.99
     },
     {
@@ -6907,7 +6921,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771838004,
+      "modifiedAt": 1795469860248,
       "value": -99.99
     },
     {
@@ -6929,7 +6943,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771838004,
+      "modifiedAt": 1795469860248,
       "value": -99.99
     },
     {
@@ -6951,7 +6965,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771897162,
+      "modifiedAt": 1795469860248,
       "value": -100.05
     },
     {
@@ -6973,7 +6987,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771897162,
+      "modifiedAt": 1795469860248,
       "value": -100.05
     },
     {
@@ -6995,7 +7009,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771897162,
+      "modifiedAt": 1795469860248,
       "value": -100.05
     },
     {
@@ -7017,7 +7031,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771897162,
+      "modifiedAt": 1795469860248,
       "value": -100.05
     },
     {
@@ -7039,7 +7053,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771897162,
+      "modifiedAt": 1795469860248,
       "value": -100.05
     },
     {
@@ -7061,7 +7075,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771897162,
+      "modifiedAt": 1795469860248,
       "value": -100.05
     },
     {
@@ -7083,7 +7097,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771897162,
+      "modifiedAt": 1795469860248,
       "value": -100.05
     },
     {
@@ -7105,7 +7119,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794771938172,
+      "modifiedAt": 1795469860248,
       "value": -160.37
     },
     {
@@ -7127,7 +7141,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794773660460,
+      "modifiedAt": 1795469860248,
       "value": -11
     },
     {
@@ -7149,7 +7163,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794773703174,
+      "modifiedAt": 1795469860248,
       "value": -39.9
     },
     {
@@ -7171,7 +7185,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794773755918,
+      "modifiedAt": 1795469860248,
       "value": -51.98
     },
     {
@@ -7193,7 +7207,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794773792697,
+      "modifiedAt": 1795469860248,
       "value": -99.99
     },
     {
@@ -7215,7 +7229,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794773839003,
+      "modifiedAt": 1795469860248,
       "value": -29.9
     },
     {
@@ -7237,7 +7251,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794773959355,
+      "modifiedAt": 1795469860248,
       "value": -13.47
     },
     {
@@ -7259,7 +7273,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794773993828,
+      "modifiedAt": 1795469860248,
       "value": -8.95
     },
     {
@@ -7281,7 +7295,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794774028615,
+      "modifiedAt": 1795469860248,
       "value": -44.9
     },
     {
@@ -7303,7 +7317,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794774055524,
+      "modifiedAt": 1795469860248,
       "value": -29.9
     },
     {
@@ -7325,7 +7339,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794774075770,
+      "modifiedAt": 1795469860248,
       "value": -22.48
     },
     {
@@ -7347,7 +7361,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794774102714,
+      "modifiedAt": 1795469860248,
       "value": -1.83
     },
     {
@@ -7369,7 +7383,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794774122729,
+      "modifiedAt": 1795469860248,
       "value": -9.85
     },
     {
@@ -7391,7 +7405,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794774177320,
+      "modifiedAt": 1795469860248,
       "value": -98.75
     },
     {
@@ -7413,7 +7427,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794774177320,
+      "modifiedAt": 1795469860248,
       "value": -98.75
     },
     {
@@ -7435,7 +7449,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794774177320,
+      "modifiedAt": 1795469860248,
       "value": -98.75
     },
     {
@@ -7457,7 +7471,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794774177320,
+      "modifiedAt": 1795469860248,
       "value": -98.75
     },
     {
@@ -7479,7 +7493,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794774220453,
+      "modifiedAt": 1795469860248,
       "value": -71.99
     },
     {
@@ -7501,7 +7515,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794774242067,
+      "modifiedAt": 1795469860248,
       "value": -40.9
     },
     {
@@ -7523,7 +7537,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794774933717,
+      "modifiedAt": 1795469860248,
       "value": -8.05
     },
     {
@@ -7539,13 +7553,13 @@
       "notes": "Compra VAN",
       "installment": "3/12",
       "installmentGroupId": "grp_1794954486752",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Beta",
       "isReimbursed": false,
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954486847,
+      "modifiedAt": 1795637856333,
       "value": -625
     },
     {
@@ -7567,7 +7581,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954486847,
+      "modifiedAt": 1795469860248,
       "value": -625
     },
     {
@@ -7589,7 +7603,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954486847,
+      "modifiedAt": 1795469860248,
       "value": -625
     },
     {
@@ -7611,7 +7625,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954486847,
+      "modifiedAt": 1795469860248,
       "value": -625
     },
     {
@@ -7633,7 +7647,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954486847,
+      "modifiedAt": 1795469860248,
       "value": -625
     },
     {
@@ -7655,7 +7669,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954486847,
+      "modifiedAt": 1795469860248,
       "value": -625
     },
     {
@@ -7677,7 +7691,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954486847,
+      "modifiedAt": 1795469860248,
       "value": -625
     },
     {
@@ -7699,7 +7713,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954486847,
+      "modifiedAt": 1795469860248,
       "value": -625
     },
     {
@@ -7721,7 +7735,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954486847,
+      "modifiedAt": 1795469860248,
       "value": -625
     },
     {
@@ -7743,7 +7757,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954486847,
+      "modifiedAt": 1795469860248,
       "value": -625
     },
     {
@@ -7759,13 +7773,13 @@
       "notes": "Resort",
       "installment": "2/6",
       "installmentGroupId": "grp_1794954578155",
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954578242,
+      "modifiedAt": 1795637856333,
       "value": -1166.66
     },
     {
@@ -7787,7 +7801,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954578242,
+      "modifiedAt": 1795469860248,
       "value": -1166.66
     },
     {
@@ -7809,7 +7823,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954578242,
+      "modifiedAt": 1795469860248,
       "value": -1166.66
     },
     {
@@ -7831,7 +7845,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954578242,
+      "modifiedAt": 1795469860248,
       "value": -1166.66
     },
     {
@@ -7853,7 +7867,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954578242,
+      "modifiedAt": 1795469860248,
       "value": -1166.66
     },
     {
@@ -7869,13 +7883,13 @@
       "notes": "mercado",
       "installment": "1/1",
       "installmentGroupId": null,
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794954641043,
+      "modifiedAt": 1795637856333,
       "value": -9.48
     },
     {
@@ -7891,13 +7905,13 @@
       "notes": "Restaurante",
       "installment": "1/1",
       "installmentGroupId": null,
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794955371742,
+      "modifiedAt": 1795637856333,
       "value": -24
     },
     {
@@ -7913,13 +7927,13 @@
       "notes": "Tarifa",
       "installment": "1/1",
       "installmentGroupId": null,
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794955424329,
+      "modifiedAt": 1795637856333,
       "value": -94.98
     },
     {
@@ -7935,13 +7949,13 @@
       "notes": "Restaurante",
       "installment": "1/1",
       "installmentGroupId": null,
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794955380000,
+      "modifiedAt": 1795637856333,
       "value": -98
     },
     {
@@ -7957,13 +7971,13 @@
       "notes": "mercado",
       "installment": "1/1",
       "installmentGroupId": null,
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794955392869,
+      "modifiedAt": 1795637856333,
       "value": -6.98
     },
     {
@@ -7979,13 +7993,13 @@
       "notes": "Restaurante",
       "installment": "1/1",
       "installmentGroupId": null,
-      "status": "ABERTO",
+      "status": "PAGO",
       "buyer": "Lisi",
       "isReimbursed": false,
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794955408400,
+      "modifiedAt": 1795637856333,
       "value": -30.29
     },
     {
@@ -8007,7 +8021,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794969608201,
+      "modifiedAt": 1795469860248,
       "value": -68.02
     },
     {
@@ -8029,7 +8043,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794969608201,
+      "modifiedAt": 1795469860248,
       "value": -68.02
     },
     {
@@ -8051,7 +8065,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794969608201,
+      "modifiedAt": 1795469860248,
       "value": -68.02
     },
     {
@@ -8073,7 +8087,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794969608201,
+      "modifiedAt": 1795469860248,
       "value": -68.02
     },
     {
@@ -8095,7 +8109,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794969608201,
+      "modifiedAt": 1795469860248,
       "value": -68.02
     },
     {
@@ -8117,7 +8131,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794969674709,
+      "modifiedAt": 1795469860248,
       "value": -136.94
     },
     {
@@ -8139,7 +8153,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794969785860,
+      "modifiedAt": 1795469860248,
       "value": 0.07
     },
     {
@@ -8150,18 +8164,18 @@
       "invoice": "2026-12",
       "invoiceManual": true,
       "card": "Unique",
-      "description": "Raia4162",
+      "description": "Raia4162 - Remédio Rinite JR",
       "baseDescription": "Raia4162",
       "notes": "",
       "installment": "1/1",
       "installmentGroupId": null,
       "status": "ABERTO",
-      "buyer": "Júnior",
+      "buyer": "",
       "isReimbursed": false,
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794969944737,
+      "modifiedAt": 1795469860248,
       "value": -56.85
     },
     {
@@ -8183,7 +8197,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1794970000841,
+      "modifiedAt": 1795469860248,
       "value": -9.98
     },
     {
@@ -8205,7 +8219,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795196452622,
+      "modifiedAt": 1795469860248,
       "value": -19.9
     },
     {
@@ -8227,7 +8241,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795196505720,
+      "modifiedAt": 1795469860248,
       "value": -13.09
     },
     {
@@ -8249,7 +8263,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795196554313,
+      "modifiedAt": 1795469860248,
       "value": -8.42
     },
     {
@@ -8271,7 +8285,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795196602121,
+      "modifiedAt": 1795469860248,
       "value": 0.12
     },
     {
@@ -8293,7 +8307,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795196750270,
+      "modifiedAt": 1795469860248,
       "value": -547.87
     },
     {
@@ -8315,7 +8329,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795196847092,
+      "modifiedAt": 1795469860248,
       "value": -406.12
     },
     {
@@ -8337,7 +8351,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795196916753,
+      "modifiedAt": 1795469860248,
       "value": -1926.92
     },
     {
@@ -8359,7 +8373,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795196916753,
+      "modifiedAt": 1795469860248,
       "value": -1926.92
     },
     {
@@ -8381,7 +8395,7 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795196916753,
+      "modifiedAt": 1795469860248,
       "value": -1926.92
     },
     {
@@ -8403,8 +8417,140 @@
       "offInvoice": false,
       "offInvoiceDay": null,
       "dupIgnored": false,
-      "modifiedAt": 1795196916753,
+      "modifiedAt": 1795469860248,
       "value": -1926.92
+    },
+    {
+      "code": "CC-345",
+      "externalId": "tx_mwwt9anqk8v4n",
+      "date": "2026-11-25",
+      "purchaseDate": "2026-11-25",
+      "invoice": "2026-12",
+      "invoiceManual": true,
+      "card": "Cobrança Diversa",
+      "description": "Spotfy (1/6)",
+      "baseDescription": "Spotfy",
+      "notes": "Mensalidade do Spotfy",
+      "installment": "1/6",
+      "installmentGroupId": "fcgrp_1795652742219",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "isReimbursed": false,
+      "offInvoice": false,
+      "offInvoiceDay": null,
+      "dupIgnored": false,
+      "modifiedAt": 1795652705078,
+      "value": -8.5
+    },
+    {
+      "code": "CC-346",
+      "externalId": "tx_inst_1795652742221_2",
+      "date": "2026-12-25",
+      "purchaseDate": "2026-12-25",
+      "invoice": "2027-01",
+      "invoiceManual": true,
+      "card": "Cobrança Diversa",
+      "description": "Spotfy (2/6)",
+      "baseDescription": "Spotfy",
+      "notes": "",
+      "installment": "2/6",
+      "installmentGroupId": "fcgrp_1795652742219",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "isReimbursed": false,
+      "offInvoice": false,
+      "offInvoiceDay": null,
+      "dupIgnored": false,
+      "modifiedAt": 0,
+      "value": -8.5
+    },
+    {
+      "code": "CC-347",
+      "externalId": "tx_inst_1795652742221_3",
+      "date": "2027-01-25",
+      "purchaseDate": "2027-01-25",
+      "invoice": "2027-02",
+      "invoiceManual": true,
+      "card": "Cobrança Diversa",
+      "description": "Spotfy (3/6)",
+      "baseDescription": "Spotfy",
+      "notes": "",
+      "installment": "3/6",
+      "installmentGroupId": "fcgrp_1795652742219",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "isReimbursed": false,
+      "offInvoice": false,
+      "offInvoiceDay": null,
+      "dupIgnored": false,
+      "modifiedAt": 0,
+      "value": -8.5
+    },
+    {
+      "code": "CC-348",
+      "externalId": "tx_inst_1795652742221_4",
+      "date": "2027-02-25",
+      "purchaseDate": "2027-02-25",
+      "invoice": "2027-03",
+      "invoiceManual": true,
+      "card": "Cobrança Diversa",
+      "description": "Spotfy (4/6)",
+      "baseDescription": "Spotfy",
+      "notes": "",
+      "installment": "4/6",
+      "installmentGroupId": "fcgrp_1795652742219",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "isReimbursed": false,
+      "offInvoice": false,
+      "offInvoiceDay": null,
+      "dupIgnored": false,
+      "modifiedAt": 0,
+      "value": -8.5
+    },
+    {
+      "code": "CC-349",
+      "externalId": "tx_inst_1795652742221_5",
+      "date": "2027-03-25",
+      "purchaseDate": "2027-03-25",
+      "invoice": "2027-04",
+      "invoiceManual": true,
+      "card": "Cobrança Diversa",
+      "description": "Spotfy (5/6)",
+      "baseDescription": "Spotfy",
+      "notes": "",
+      "installment": "5/6",
+      "installmentGroupId": "fcgrp_1795652742219",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "isReimbursed": false,
+      "offInvoice": false,
+      "offInvoiceDay": null,
+      "dupIgnored": false,
+      "modifiedAt": 0,
+      "value": -8.5
+    },
+    {
+      "code": "CC-350",
+      "externalId": "tx_inst_1795652742221_6",
+      "date": "2027-04-25",
+      "purchaseDate": "2027-04-25",
+      "invoice": "2027-05",
+      "invoiceManual": true,
+      "card": "Cobrança Diversa",
+      "description": "Spotfy (6/6)",
+      "baseDescription": "Spotfy",
+      "notes": "",
+      "installment": "6/6",
+      "installmentGroupId": "fcgrp_1795652742219",
+      "status": "ABERTO",
+      "buyer": "Beta",
+      "isReimbursed": false,
+      "offInvoice": false,
+      "offInvoiceDay": null,
+      "dupIgnored": false,
+      "modifiedAt": 0,
+      "value": -8.5
     }
   ],
   "operators": [
